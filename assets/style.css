@@ -228,3 +228,4 @@ img[src$="confident-walk.jpg"]{object-position:50% 12%}
 .ty-steps b{display:block;font-weight:600}.ty-steps span{color:var(--graphite)}
 .ty-wink{font-size:19px;font-weight:500;letter-spacing:-.01em}
 .ty-ctas{margin:28px 0 8px}
+.prose .aside{font-size:15.5px;color:var(--graphite);margin-top:-8px}
