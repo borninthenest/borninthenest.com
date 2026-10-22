@@ -216,3 +216,15 @@ img[src$="confident-walk.jpg"]{object-position:50% 12%}
 .about-photo .sy-photo.lg{max-width:400px;aspect-ratio:2/3}
 .meet .sy-photo.lg{max-width:480px}
 .small a{color:inherit;text-decoration:underline}
+/* ---- thank-you pages ---- */
+.ty-head{padding-top:56px}
+.ty-head .sy-photo.sm{width:96px;height:96px;margin:0 auto 22px;display:block;box-shadow:0 0 0 6px var(--blush)}
+.ty-card{background:var(--blush);border-radius:var(--r);padding:30px 26px;margin-top:28px!important;margin-bottom:12px!important}
+.ty-card h2{font-size:clamp(24px,3vw,32px);font-weight:600;letter-spacing:-.025em;line-height:1.15;margin:0 0 14px}
+.ty-card p{margin:0 0 14px}.ty-card .ctas{margin-top:20px}
+.ty-steps{list-style:none;counter-reset:s;padding:0;margin:0 0 28px}
+.ty-steps li{counter-increment:s;position:relative;padding:0 0 18px 52px}
+.ty-steps li::before{content:counter(s);position:absolute;left:0;top:0;width:36px;height:36px;border-radius:50%;background:var(--ink);color:#fff;display:grid;place-items:center;font-size:15px;font-weight:600}
+.ty-steps b{display:block;font-weight:600}.ty-steps span{color:var(--graphite)}
+.ty-wink{font-size:19px;font-weight:500;letter-spacing:-.01em}
+.ty-ctas{margin:28px 0 8px}
