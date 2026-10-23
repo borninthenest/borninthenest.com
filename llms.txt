@@ -28,6 +28,7 @@ Contact: hello@borninthenest.com
 ## About
 - [About Sybille](https://borninthenest.com/about.html): Why Born in the Nest exists
 - [The weekly letter](https://borninthenest.com/letters.html): Free letter every Sunday of pregnancy, matched to your due month
+- [A sample weekly letter](https://borninthenest.com/sample-letter.html): What a weekly letter looks like, around weeks 20–24
 - [Contact](https://borninthenest.com/contact.html): Write to Sybille
 
 ## Optional

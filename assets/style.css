@@ -308,3 +308,21 @@ img[src$="confident-walk.jpg"]{object-position:50% 12%}
 .story-body p{font-size:clamp(17px,1.4vw,20px);line-height:1.62;color:rgba(255,255,255,.9);max-width:36em;margin:0 0 14px}
 .story-body .joy{font-size:clamp(22px,2.2vw,30px);font-weight:600;letter-spacing:-.015em;color:#F3B6CF;margin:22px 0 0}
 @media (min-width:900px){.story-body{padding:8px 40px 80px}}
+/* Oct 23, 2026 · preview-signup-1023: the reason to sign up, right above every form */
+.su-promise{margin:0 0 10px;font-size:clamp(19px,2vw,22px);font-weight:500;line-height:1.4;letter-spacing:-.01em;color:#fff;padding-left:14px;border-left:3px solid #F3B6CF}
+.su-support{margin:0 0 12px;font-size:16.5px;line-height:1.5;color:#bdb6b9}
+.su-sample{margin:0 0 28px;font-size:15.5px}
+.su-sample a{color:#F3B6CF;font-weight:500;text-decoration:none}
+.su-sample a:hover{color:#fff}
+.su-h + .su-promise{margin-top:6px}
+.hero-promise{margin:-6px 0 18px;padding-left:12px;border-left:3px solid var(--berry);font-size:15.5px;line-height:1.5;color:var(--ink);max-width:32em}
+.hero-promise a{color:var(--berry);font-weight:500;text-decoration:none;white-space:nowrap}
+/* sample letter page */
+.letter-note{background:var(--blush);border-radius:20px;padding:18px 22px;font-size:16px;line-height:1.55;margin-top:8px}
+.letter-subj{display:flex;flex-wrap:wrap;gap:10px;align-items:baseline;font-weight:600;font-size:18px;border-bottom:1px solid var(--sand);padding-bottom:16px}
+.letter-subj span{font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--graphite)}
+.letter h3{margin-top:34px}
+.letter-sign{margin-left:0;margin-right:0}
+.letter-sign .mut{font-size:14.5px}
+.letter-foot{font-size:14.5px;color:var(--graphite);border-top:1px solid var(--sand);padding-top:16px}
+.signup + .prevnext{margin-top:44px}
