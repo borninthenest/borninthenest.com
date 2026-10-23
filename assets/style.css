@@ -326,3 +326,33 @@ img[src$="confident-walk.jpg"]{object-position:50% 12%}
 .letter-sign .mut{font-size:14.5px}
 .letter-foot{font-size:14.5px;color:var(--graphite);border-top:1px solid var(--sand);padding-top:16px}
 .signup + .prevnext{margin-top:44px}
+/* Oct 23, 2026 · preview-signup-1023 (round 2): share prompt, while-you-wait, 404, compact About top */
+.share{width:min(var(--read),calc(100% - 40px));margin:8px auto 40px;padding:20px 22px;background:var(--bone);border-radius:20px;display:flex;flex-wrap:wrap;align-items:center;gap:12px 18px;justify-content:space-between}
+.share-h{margin:0;font-weight:500;font-size:16.5px;line-height:1.4}
+.share-btns{display:flex;flex-wrap:wrap;gap:8px}
+.share-copy,.share-a{display:inline-flex;align-items:center;min-height:40px;padding:0 16px;border-radius:999px;font:inherit;font-size:14.5px;font-weight:500;text-decoration:none;cursor:pointer;border:1px solid var(--sand);background:#fff;color:var(--ink)}
+.share-copy{background:var(--berry);border-color:var(--berry);color:#fff}
+.share-copy:hover{background:var(--berry-ink)}.share-a:hover{border-color:var(--berry);color:var(--berry)}
+.ty-wait{background:var(--bone);border-radius:var(--r);padding:22px 26px;margin-top:0!important;margin-bottom:12px!important}
+.ty-wait .eyebrow{margin-bottom:8px}
+.ty-wait p{margin:0 0 10px}
+.ty-wait-links{display:flex;flex-wrap:wrap;gap:8px 24px;margin:0!important}
+.ty-wait-links a{font-weight:500;text-decoration:none}
+.nf-links{display:flex;flex-wrap:wrap;gap:12px}
+.about-top{display:grid;grid-template-columns:104px minmax(0,1fr);grid-template-areas:"photo head" "mission mission" "intro intro";gap:6px 16px;align-items:center;padding:18px 0 4px}
+.at-photo{grid-area:photo;margin:0}
+.sy-photo.at{width:104px;height:130px;object-fit:cover;object-position:60% 20%;border-radius:18px;display:block}
+.at-head{grid-area:head}
+.at-head .tagline{font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--berry);margin-bottom:6px}
+.at-head h1{font-size:clamp(30px,4.6vw,56px);font-weight:600;letter-spacing:-.035em;line-height:1.04;margin:0}
+.at-mission{grid-area:mission;margin:10px 0 0;font-size:clamp(17.5px,1.6vw,21px);line-height:1.45;color:var(--berry-ink);letter-spacing:-.01em}
+.at-mission strong{font-weight:600}
+.at-intro{grid-area:intro;margin:12px 0 0;font-size:16.5px;line-height:1.55}
+.about-body{margin-top:8px}
+@media (min-width:860px){
+ .about-top{grid-template-columns:minmax(0,380px) minmax(0,1fr);grid-template-areas:"photo head" "photo mission" "photo intro";grid-template-rows:auto auto 1fr;gap:0 52px;align-items:start;padding:40px 0 12px;max-width:1040px}
+ .sy-photo.at{width:100%;height:auto;aspect-ratio:4/5;max-height:calc(100svh - 150px);border-radius:var(--r)}
+ .at-head{align-self:end;padding-top:24px}
+ .at-head h1{margin-bottom:4px}
+ .at-intro{font-size:17.5px}
+}

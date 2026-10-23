@@ -139,6 +139,7 @@
 </footer>
 <script>
 (function(){var b=document.body;if(!b.classList.contains('home'))return;var f=function(){b.classList.toggle('scrolled',window.scrollY>24)};f();addEventListener('scroll',f,{passive:true})})();
+document.querySelectorAll('.share-copy').forEach(function(b){b.addEventListener('click',function(){var u=b.getAttribute('data-url'),done=function(){b.textContent='Link copied ✓';setTimeout(function(){b.textContent='Copy link'},2200)};if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(u).then(done,function(){prompt('Copy this link:',u)})}else{prompt('Copy this link:',u)}})});
 (function(){var els=document.querySelectorAll('main > *:not(.hero):not(.band), .tiles li, .cards a');
 if(!('IntersectionObserver' in window)||matchMedia('(prefers-reduced-motion: reduce)').matches){return}
 var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{rootMargin:'0px 0px -8% 0px'});

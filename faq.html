@@ -306,7 +306,7 @@
   <label class="su-due"><span>Due month</span><select name="fields[due_month]" required><option value="" disabled selected>Choose your month</option><option value="2026-10">October 2026</option><option value="2026-11">November 2026</option><option value="2026-12">December 2026</option><option value="2027-01">January 2027</option><option value="2027-02">February 2027</option><option value="2027-03">March 2027</option><option value="2027-04">April 2027</option><option value="2027-05">May 2027</option><option value="2027-06">June 2027</option><option value="2027-07">July 2027</option><option value="2027-08">August 2027</option><option value="dreaming">Not pregnant yet / just dreaming</option></select><small class="su-why">Why just the month? Due dates usually start with a formula a doctor came up with in 1812. Your baby has never heard of it. 😄 Your month is all we need.</small></label><script>(function(s){var M=['January','February','March','April','May','June','July','August','September','October','November','December'],d=new Date(),h='<option value="" disabled selected>Choose your month</option>';for(var i=0;i<11;i++){var y=d.getFullYear()+Math.floor((d.getMonth()+i)/12),m=(d.getMonth()+i)%12;h+='<option value="'+y+'-'+(m<9?'0':'')+(m+1)+'">'+M[m]+' '+y+'</option>'}h+='<option value="dreaming">Not pregnant yet / just dreaming</option>';s.innerHTML=h})(document.currentScript.previousElementSibling.querySelector('select'))</script>
   <button type="submit">Send me the weekly letter 💌</button>
 </form>
-<p class="small">Free, and you can unsubscribe anytime. We never sell or share your information. After signing up, check your inbox to confirm. Education only, not medical advice. <a href="privacy.html">Privacy</a></p>
+<p class="small">Free. No spam, unsubscribe anytime. We never sell or share your information. After signing up, check your inbox to confirm. Education only, not medical advice. <a href="privacy.html">Privacy</a></p>
 </section>
 
 </main>
@@ -320,6 +320,7 @@
 </footer>
 <script>
 (function(){var b=document.body;if(!b.classList.contains('home'))return;var f=function(){b.classList.toggle('scrolled',window.scrollY>24)};f();addEventListener('scroll',f,{passive:true})})();
+document.querySelectorAll('.share-copy').forEach(function(b){b.addEventListener('click',function(){var u=b.getAttribute('data-url'),done=function(){b.textContent='Link copied ✓';setTimeout(function(){b.textContent='Copy link'},2200)};if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(u).then(done,function(){prompt('Copy this link:',u)})}else{prompt('Copy this link:',u)}})});
 (function(){var els=document.querySelectorAll('main > *:not(.hero):not(.band), .tiles li, .cards a');
 if(!('IntersectionObserver' in window)||matchMedia('(prefers-reduced-motion: reduce)').matches){return}
 var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{rootMargin:'0px 0px -8% 0px'});
