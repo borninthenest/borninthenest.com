@@ -134,13 +134,13 @@
 <body>
 <header class="site-head">
   <a class="brand" href="index.html" aria-label="Born in the Nest home"><svg class="mark" xmlns="http://www.w3.org/2000/svg" viewBox="14 46 178 132" aria-hidden="true"><circle cx="96" cy="88" r="36" fill="currentColor"/><path d="M22 104 C58 184 156 182 184 66 C146 140 74 150 22 104 Z" fill="currentColor"/></svg><span class="word"><b>born</b> in the <b>nest</b></span></a>
-  <nav class="nav" aria-label="Main"><a href="lessons/day-1.html">Lessons</a><a href="guides.html" aria-current="page">Guides</a><a href="faq.html">FAQ</a><a href="letters.html">Sunday letters</a><a href="about.html">About</a></nav>
+  <nav class="nav" aria-label="Main"><a href="lessons/day-1.html">Lessons</a><a href="guides.html" aria-current="page">Guides</a><a href="faq.html">FAQ</a><a href="letters.html">Weekly letter</a><a href="about.html">About</a></nav>
 </header>
 <main>
 <div class="band"><div class="tagline">Guides</div><h1>Gentle guides for your birth choices</h1><p class="dek">Honest, kind and sourced. Start wherever you are.</p></div>
 <article class="prose"><p>Most of us were never told how many options we have for giving birth. These guides are here to change that, gently. Each one links to its sources, so you can read more and talk it through with your midwife or doctor.</p></article>
 <div class="card lessons"><a class="lrow" href="guides/birth-options-home-birth-center-hospital.html"><span class="emo">🏡</span><span class="lt"><b>Your birth options in the US: home, birth center or hospital</b><br><span class="mut">Three places, three kinds of care, and one gentle question to help you choose.</span></span><span class="chev">›</span></a><a class="lrow" href="guides/scared-of-giving-birth.html"><span class="emo">🤍</span><span class="lt"><b>Scared of giving birth? You are not alone</b><br><span class="mut">Fear of birth is so common. Here's where it comes from, and what gently helps.</span></span><span class="chev">›</span></a><a class="lrow" href="guides/first-time-mom-birth-choices.html"><span class="emo">🌱</span><span class="lt"><b>First-time mom? What no one tells you about your birth choices</b><br><span class="mut">The things I wish I'd known before my first baby.</span></span><span class="chev">›</span></a><a class="lrow" href="faq.html"><span class="emo">💬</span><span class="lt"><b>Gentle answers to your birth questions</b><br><span class="mut">Is home birth safe? How do I find a midwife? What is tokophobia?</span></span><span class="chev">›</span></a></div>
-<section class="prose"><h2>Prefer a little at a time?</h2><p>Start with the <a href="lessons/day-1.html">five free lessons</a>, then a gentle letter every Sunday.</p></section>
+<section class="prose"><h2>Prefer a little at a time?</h2><p>Read the <a href="index.html#lessons">five free lessons</a> right here on the site, and if you'd like, get the weekly letter every Sunday, matched to your due month.</p></section>
 <section class="signup" id="join">
 <h2 class="su-h">Walk this journey with me</h2>
 <!-- Kit form 10081572 'Website signup – borninthenest.com' (double opt-in). Posts directly to Kit. -->
@@ -148,7 +148,7 @@
   <label><span>Email</span><input type="email" name="email_address" placeholder="you@example.com" required autocomplete="email"></label>
   <label><span>First name <span class="opt">(optional)</span></span><input type="text" name="fields[first_name]" placeholder="Your first name" autocomplete="given-name"></label>
   <label class="su-due"><span>Due month</span><select name="fields[due_month]" required><option value="" disabled selected>Choose your month</option><option value="2026-10">October 2026</option><option value="2026-11">November 2026</option><option value="2026-12">December 2026</option><option value="2027-01">January 2027</option><option value="2027-02">February 2027</option><option value="2027-03">March 2027</option><option value="2027-04">April 2027</option><option value="2027-05">May 2027</option><option value="2027-06">June 2027</option><option value="2027-07">July 2027</option><option value="2027-08">August 2027</option><option value="dreaming">Not pregnant yet / just dreaming</option></select><small class="su-why">Why just the month? Due dates usually start with a formula a doctor came up with in 1812. Your baby has never heard of it. 😄 Your month is all we need.</small></label><script>(function(s){var M=['January','February','March','April','May','June','July','August','September','October','November','December'],d=new Date(),h='<option value="" disabled selected>Choose your month</option>';for(var i=0;i<11;i++){var y=d.getFullYear()+Math.floor((d.getMonth()+i)/12),m=(d.getMonth()+i)%12;h+='<option value="'+y+'-'+(m<9?'0':'')+(m+1)+'">'+M[m]+' '+y+'</option>'}h+='<option value="dreaming">Not pregnant yet / just dreaming</option>';s.innerHTML=h})(document.currentScript.previousElementSibling.querySelector('select'))</script>
-  <button type="submit">Show me what's possible 🪺</button>
+  <button type="submit">Send me the weekly letter 💌</button>
 </form>
 <p class="small">Free, and you can unsubscribe anytime. We never sell or share your information. After signing up, check your inbox to confirm. Education only, not medical advice. <a href="privacy.html">Privacy</a></p>
 </section>
@@ -163,6 +163,7 @@
   <p class="fine">© 2026 Born in the Nest · Education only, not medical advice</p>
 </footer>
 <script>
+(function(){var b=document.body;if(!b.classList.contains('home'))return;var f=function(){b.classList.toggle('scrolled',window.scrollY>24)};f();addEventListener('scroll',f,{passive:true})})();
 (function(){var els=document.querySelectorAll('main > *:not(.hero):not(.band), .tiles li, .cards a');
 if(!('IntersectionObserver' in window)||matchMedia('(prefers-reduced-motion: reduce)').matches){return}
 var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{rootMargin:'0px 0px -8% 0px'});

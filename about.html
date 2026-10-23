@@ -124,13 +124,13 @@
 <body>
 <header class="site-head">
   <a class="brand" href="index.html" aria-label="Born in the Nest home"><svg class="mark" xmlns="http://www.w3.org/2000/svg" viewBox="14 46 178 132" aria-hidden="true"><circle cx="96" cy="88" r="36" fill="currentColor"/><path d="M22 104 C58 184 156 182 184 66 C146 140 74 150 22 104 Z" fill="currentColor"/></svg><span class="word"><b>born</b> in the <b>nest</b></span></a>
-  <nav class="nav" aria-label="Main"><a href="lessons/day-1.html">Lessons</a><a href="guides.html">Guides</a><a href="faq.html">FAQ</a><a href="letters.html">Sunday letters</a><a href="about.html" aria-current="page">About</a></nav>
+  <nav class="nav" aria-label="Main"><a href="lessons/day-1.html">Lessons</a><a href="guides.html">Guides</a><a href="faq.html">FAQ</a><a href="letters.html">Weekly letter</a><a href="about.html" aria-current="page">About</a></nav>
 </header>
 <main>
 <div class="band"><div class="tagline">About</div><h1>Hi, I'm Sybille</h1></div>
 <figure class="about-photo"><img class="sy-photo lg" src="assets/img/sybille-portrait.jpg" alt="Sybille, pregnant with Mila, smiling among red autumn leaves" loading="lazy" decoding="async"></figure>
 <article class="prose">
-<p>I'm a mom of two. My first baby was born in a hospital, the way most of us are told it should go, and it showed me how much more was possible: a calm, beautiful birth and those first quiet moments with my baby. My second was born at home, with a midwife I trusted. Same body, completely different birth. The biggest difference was where I was and how safe and loved I felt.</p>
+<p>I'm a mom of two. My first baby was born in a hospital, the way most of us are told it should go, and it showed me how much more was possible: a calm, beautiful birth and those first quiet moments with my baby. My second was born at home, with a midwife I trusted. Same body, completely different birth. The biggest difference was where I was and how calm and loved I felt.</p>
 <p class="quote">As my midwife Sarah always said, pregnant women need to feel loved.</p>
 <p>That's what Born in the Nest is about.</p>
 <p>My midwives felt a little like superheroes to me. They paid attention to everything: what I was eating, how I was sleeping, how I was really feeling, and the small things I'd never have thought to mention. Often they seemed to understand what I needed just by looking at me, before I said a word.</p>
@@ -138,8 +138,8 @@
 <h2>Why Born in the Nest exists</h2>
 <p>No one told me I had another option until my second pregnancy. I want you to know sooner.</p>
 <p>Choosing where to give birth, and finding the right midwife or birth center, are big decisions, and I wish I'd had someone I could count on when I made them. When I was pregnant, just a message from one of my midwives could calm me down and make my whole day feel lighter. That's what I want Born in the Nest to be for you: a warm, trusted place you can come back to whenever you need it.</p>
-<p>It isn't a one-time thing. It starts with five short lessons, and then a weekly guide throughout your pregnancy, the way a loving midwife would walk beside you. You're never alone on this journey. Think of it as a steady hand with you every week, all the way to the day you meet your baby.</p>
-<p class="cta-line"><a href="lessons/day-1.html">Start with Day 1 →</a></p>
+<p>It isn't a one-time thing. The five short lessons are free right here on the site, for anyone, no signup needed. And if you'd like, I'll send you a weekly letter every Sunday, matched to your due month, the way a loving midwife would walk beside you. You're never alone on this journey. Think of it as a steady hand with you every week, all the way to the day you meet your baby.</p>
+<p class="cta-line"><a href="index.html#lessons">Read the five free lessons →</a></p>
 </article>
 <div class="sign"><img class="sy-photo sm" src="assets/img/sybille-avatar.jpg" alt="Sybille" loading="lazy" decoding="async"><div>With love from my nest to yours,<br><b>Sybille</b> <span class="heart">🤍</span></div></div>
 <section class="signup" id="join">
@@ -149,7 +149,7 @@
   <label><span>Email</span><input type="email" name="email_address" placeholder="you@example.com" required autocomplete="email"></label>
   <label><span>First name <span class="opt">(optional)</span></span><input type="text" name="fields[first_name]" placeholder="Your first name" autocomplete="given-name"></label>
   <label class="su-due"><span>Due month</span><select name="fields[due_month]" required><option value="" disabled selected>Choose your month</option><option value="2026-10">October 2026</option><option value="2026-11">November 2026</option><option value="2026-12">December 2026</option><option value="2027-01">January 2027</option><option value="2027-02">February 2027</option><option value="2027-03">March 2027</option><option value="2027-04">April 2027</option><option value="2027-05">May 2027</option><option value="2027-06">June 2027</option><option value="2027-07">July 2027</option><option value="2027-08">August 2027</option><option value="dreaming">Not pregnant yet / just dreaming</option></select><small class="su-why">Why just the month? Due dates usually start with a formula a doctor came up with in 1812. Your baby has never heard of it. 😄 Your month is all we need.</small></label><script>(function(s){var M=['January','February','March','April','May','June','July','August','September','October','November','December'],d=new Date(),h='<option value="" disabled selected>Choose your month</option>';for(var i=0;i<11;i++){var y=d.getFullYear()+Math.floor((d.getMonth()+i)/12),m=(d.getMonth()+i)%12;h+='<option value="'+y+'-'+(m<9?'0':'')+(m+1)+'">'+M[m]+' '+y+'</option>'}h+='<option value="dreaming">Not pregnant yet / just dreaming</option>';s.innerHTML=h})(document.currentScript.previousElementSibling.querySelector('select'))</script>
-  <button type="submit">Show me what's possible 🪺</button>
+  <button type="submit">Send me the weekly letter 💌</button>
 </form>
 <p class="small">Free, and you can unsubscribe anytime. We never sell or share your information. After signing up, check your inbox to confirm. Education only, not medical advice. <a href="privacy.html">Privacy</a></p>
 </section>
@@ -164,6 +164,7 @@
   <p class="fine">© 2026 Born in the Nest · Education only, not medical advice</p>
 </footer>
 <script>
+(function(){var b=document.body;if(!b.classList.contains('home'))return;var f=function(){b.classList.toggle('scrolled',window.scrollY>24)};f();addEventListener('scroll',f,{passive:true})})();
 (function(){var els=document.querySelectorAll('main > *:not(.hero):not(.band), .tiles li, .cards a');
 if(!('IntersectionObserver' in window)||matchMedia('(prefers-reduced-motion: reduce)').matches){return}
 var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{rootMargin:'0px 0px -8% 0px'});

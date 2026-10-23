@@ -96,12 +96,12 @@
 <body>
 <header class="site-head">
   <a class="brand" href="index.html" aria-label="Born in the Nest home"><svg class="mark" xmlns="http://www.w3.org/2000/svg" viewBox="14 46 178 132" aria-hidden="true"><circle cx="96" cy="88" r="36" fill="currentColor"/><path d="M22 104 C58 184 156 182 184 66 C146 140 74 150 22 104 Z" fill="currentColor"/></svg><span class="word"><b>born</b> in the <b>nest</b></span></a>
-  <nav class="nav" aria-label="Main"><a href="lessons/day-1.html">Lessons</a><a href="guides.html">Guides</a><a href="faq.html">FAQ</a><a href="letters.html">Sunday letters</a><a href="about.html">About</a></nav>
+  <nav class="nav" aria-label="Main"><a href="lessons/day-1.html">Lessons</a><a href="guides.html">Guides</a><a href="faq.html">FAQ</a><a href="letters.html">Weekly letter</a><a href="about.html">About</a></nav>
 </header>
 <main>
 <div class="band has-img"><img class="bimg" src="assets/img/hands-together.jpg" alt="A partner&#x27;s hand resting tenderly on a pregnant woman&#x27;s hands on her belly" width="1152" height="864" fetchpriority="high"><div class="btxt"><div class="tagline">Coming soon</div><span class="bemo" aria-hidden="true">🪺</span><h1>The Nest</h1><p class="dek">A gentle membership for your whole pregnancy.</p></div></div>
 <article class="prose">
-<p>The five lessons and the Sunday letters will always be free. The Nest is for when you'd like a little more: a steady, loving companion matched to exactly where you are in your pregnancy.</p>
+<p>The five lessons and the weekly letter will always be free. The Nest is for when you'd like a little more: a steady, loving companion matched to exactly where you are in your pregnancy.</p>
 <h2>What you'll find inside</h2>
 <ul class="list">
 <li><strong>A guide matched to your due date.</strong> Each week, what's happening for you and your baby, and one small way to prepare.</li>
@@ -136,6 +136,7 @@
   <p class="fine">© 2026 Born in the Nest · Education only, not medical advice</p>
 </footer>
 <script>
+(function(){var b=document.body;if(!b.classList.contains('home'))return;var f=function(){b.classList.toggle('scrolled',window.scrollY>24)};f();addEventListener('scroll',f,{passive:true})})();
 (function(){var els=document.querySelectorAll('main > *:not(.hero):not(.band), .tiles li, .cards a');
 if(!('IntersectionObserver' in window)||matchMedia('(prefers-reduced-motion: reduce)').matches){return}
 var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{rootMargin:'0px 0px -8% 0px'});

@@ -96,7 +96,7 @@
 <body>
 <header class="site-head">
   <a class="brand" href="index.html" aria-label="Born in the Nest home"><svg class="mark" xmlns="http://www.w3.org/2000/svg" viewBox="14 46 178 132" aria-hidden="true"><circle cx="96" cy="88" r="36" fill="currentColor"/><path d="M22 104 C58 184 156 182 184 66 C146 140 74 150 22 104 Z" fill="currentColor"/></svg><span class="word"><b>born</b> in the <b>nest</b></span></a>
-  <nav class="nav" aria-label="Main"><a href="lessons/day-1.html">Lessons</a><a href="guides.html">Guides</a><a href="faq.html">FAQ</a><a href="letters.html">Sunday letters</a><a href="about.html">About</a></nav>
+  <nav class="nav" aria-label="Main"><a href="lessons/day-1.html">Lessons</a><a href="guides.html">Guides</a><a href="faq.html">FAQ</a><a href="letters.html">Weekly letter</a><a href="about.html">About</a></nav>
 </header>
 <main>
 <div class="band ty-head"><img class="sy-photo sm" src="assets/img/sybille-avatar.jpg" alt="Sybille" loading="lazy" decoding="async"><div class="tagline">Almost there</div><h1>You're in the nest 🪺</h1><p class="dek">Just one little step left.</p></div>
@@ -104,18 +104,18 @@
 <p class="eyebrow">Check your inbox</p>
 <h2>One little click and you're in</h2>
 <p>I just sent you an email from <b>hello@borninthenest.com</b> called <b>"One little click and you're in 🪺"</b>. Open it and tap the button to confirm. That's it.</p>
-<p class="mut">Not there in a minute or two? Peek in your spam or Promotions folder, and drag it into your main inbox so the next lessons find you too.</p>
+<p class="mut">Not there in a minute or two? Peek in your spam or Promotions folder, and drag it into your main inbox so your weekly letter finds you too.</p>
 </section>
 <section class="prose">
 <h2>What happens next</h2>
 <ol class="ty-steps">
-<li><b>Lesson 1 arrives right after you confirm.</b> <span>Why every mammal looks for a nest before giving birth.</span></li>
-<li><b>Then a new lesson every other day.</b> <span>Five short lessons in all, about 4 minutes each.</span></li>
-<li><b>And a calm letter every Sunday.</b> <span>A real birth story, a small practice and gentle tips for your stage, all the way to the day you meet your baby.</span></li>
+<li><b>A short welcome note arrives right after you confirm.</b> <span>Just a hello from me, with a link to the five free lessons.</span></li>
+<li><b>Your first weekly letter arrives on Sunday.</b> <span>Matched to your due month: one honest moment, one calm idea and one small step.</span></li>
+<li><b>The five lessons are already yours.</b> <span>They're free right here on the site, about 4 minutes each. Read them anytime.</span></li>
 </ol>
 <p>Thank you for being here. Truly. Learning about your options is already an act of love, for you and your baby. I can't wait to walk beside you.</p>
 <p class="ty-wink">Now go grab a snack. You've earned it. 🍪</p>
-<div class="ctas ty-ctas"><a class="btn primary" href="lessons/day-1.html">Start reading Lesson 1 now</a><a class="btn ghost" href="guides.html">Browse the gentle guides</a></div>
+<div class="ctas ty-ctas"><a class="btn primary" href="lessons/day-1.html">Read the five free lessons</a><a class="btn ghost" href="guides.html">Browse the gentle guides</a></div>
 </section>
 <div class="sign"><img class="sy-photo sm" src="assets/img/sybille-avatar.jpg" alt="Sybille" loading="lazy" decoding="async"><div>With love from my nest to yours,<br><b>Sybille</b> <span class="heart">🤍</span></div></div>
 
@@ -129,6 +129,7 @@
   <p class="fine">© 2026 Born in the Nest · Education only, not medical advice</p>
 </footer>
 <script>
+(function(){var b=document.body;if(!b.classList.contains('home'))return;var f=function(){b.classList.toggle('scrolled',window.scrollY>24)};f();addEventListener('scroll',f,{passive:true})})();
 (function(){var els=document.querySelectorAll('main > *:not(.hero):not(.band), .tiles li, .cards a');
 if(!('IntersectionObserver' in window)||matchMedia('(prefers-reduced-motion: reduce)').matches){return}
 var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{rootMargin:'0px 0px -8% 0px'});
