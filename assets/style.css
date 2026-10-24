@@ -387,3 +387,8 @@ img[src$="hero-window.jpg"]{object-position:60% 0%}img[src$="candid-socks.jpg"]{
 .nest-badge{width:56px;height:56px;border-radius:50%;background:var(--berry);color:#fff;display:flex;align-items:center;justify-content:center;flex:0 0 auto}
 .nest-badge .mark{width:58%;height:auto;color:#fff}
 .ty-head .nest-badge{width:96px;height:96px;margin:0 auto 22px;box-shadow:0 0 0 6px var(--blush)}
+
+/* card-gap-1024: tighter gap when a prose section follows a card (guides list, welcome, confirmed) - preview Oct 24 */
+:is(.card.lessons,.ty-card,.ty-wait)+.prose{padding-top:0}
+:is(.card.lessons,.ty-card,.ty-wait)+.prose>h2:first-child{margin-top:48px}
+@media (max-width:640px){:is(.card.lessons,.ty-card,.ty-wait)+.prose>h2:first-child{margin-top:32px}}
