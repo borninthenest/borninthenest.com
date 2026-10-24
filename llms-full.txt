@@ -36,9 +36,9 @@ Is Born in the Nest medical advice?
 What are my options for where to give birth in the US?
 You can plan to give birth at home with a qualified midwife, in a freestanding birth center, or in a hospital. ACOG, the professional organization of US obstetricians, says clearly that you have the right to choose where you give birth, and encourages you to learn the benefits and risks of each option first.
 
-Most US babies are born in hospitals. In 2022, about 1.5% were born at home and about 0.65% in birth centers, so if you've never heard much about the other two options, you're not alone.
+Most US babies are born in hospitals. In 2024, about 1.6% were born at home and about 0.6% in birth centers, so if you've never heard much about the other two options, you're not alone.
 
-Sources ACOG, Planned Home Birth FAQ · NACPM community birth data, citing CDC final birth data for 2022
+Sources ACOG, Planned Home Birth FAQ · CDC/NCHS final birth data for 2024 (Natality User Guide, Tables 14–15)
 
 What are the alternatives to a hospital birth?
 The two main alternatives are a planned home birth and a birth center birth. Both are usually led by midwives, built around undisturbed, low-intervention birth, and planned with a clear path to a hospital if more help is needed.
@@ -597,7 +597,7 @@ Home birth, honestly
 A few myths, gently untangled.
 
 MythHome birth is only for very, very crunchy people.
-FactIt's a recognized choice. ACOG, the organization of US obstetricians, says you have the right to choose where you give birth, and about 54,000 US babies were born at home in 2022 (CDC data via NACPM).
+FactIt's a recognized choice. ACOG, the organization of US obstetricians, says you have the right to choose where you give birth, and more than 58,000 US babies were born at home in 2024 (CDC final birth data).
 
 MythAt home, you're on your own if plans change.
 FactA planned home birth is made with a qualified midwife and a hospital transfer plan arranged before labor, as ACOG recommends. In a US study of 16,924 planned home births, about 9 in 10 moms gave birth at home, and most moves to the hospital were for a long, slow labor.
