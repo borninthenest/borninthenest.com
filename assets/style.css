@@ -190,6 +190,7 @@ hr.soft{border:0;height:1px;background:var(--sand);margin:40px 0}
 .js .rv.in{opacity:1;transform:none}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.js .rv{opacity:1;transform:none;transition:none}*{transition:none!important}}
 img[src$="confident-walk.jpg"]{object-position:50% 12%}
+img[src$="hero-window.jpg"]{object-position:60% 0%}img[src$="candid-socks.jpg"]{object-position:45% 0%}img[src$="midwife-kitchen.jpg"]{object-position:54% 10%}
 /* ---- humor, Sybille photo placeholders ---- */
 .hero-note{margin:18px 0 0;font-size:14px;color:var(--graphite);letter-spacing:.01em}
 .meet{display:grid;gap:28px;align-items:center;padding:clamp(56px,7vw,80px) 0 clamp(48px,6vw,72px)}
