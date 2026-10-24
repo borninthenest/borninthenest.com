@@ -356,3 +356,28 @@ img[src$="confident-walk.jpg"]{object-position:50% 12%}
  .at-head h1{margin-bottom:4px}
  .at-intro{font-size:17.5px}
 }
+/* ---- Mobile: tighter section rhythm (approved Oct 24, 2026; spacing only, hero/header unchanged) ---- */
+@media (max-width:899px){
+ .home .hero-txt{padding-bottom:20px}
+ .statement{padding:20px 0 18px}
+ .sec,.split,.myths{padding:18px 0}
+ .split.choices{padding-top:22px}
+ .answers{padding-bottom:30px}
+ .answers .cta-row{margin-top:22px!important}
+ .meet{padding:22px 0 18px}
+ .story-body{padding-bottom:30px}
+ .mf-note{margin-top:22px}
+ .love-h{margin-top:28px}
+ .signup{padding:40px 20px 36px}
+ .site-foot{padding:32px 20px 28px}
+ .band{padding:36px 20px 4px}
+ .band .btxt{padding:30px 0 4px}
+ .prose{padding:20px 0 4px}
+ .prose h2{margin:36px 0 12px}
+ hr.soft{margin:28px 0}
+ .sign{padding-top:22px;margin:18px auto 22px}
+ .prevnext{margin-bottom:40px}
+ .signup + .prevnext{margin-top:32px}
+ .share{margin-bottom:28px}
+ .ty-head{padding-top:36px}
+}
