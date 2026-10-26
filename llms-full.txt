@@ -48,7 +48,7 @@ A birth center is a freestanding, home-like place for birth. The American Associ
 Sources American Association of Birth Centers, What is a birth center? · ACOG, Planned Home Birth FAQ
 
 Is home birth safe?
-It's a question every mom should ask, and I'm so glad you're asking it. The honest answer depends on your own health and your own pregnancy, so it's different for every one of us. An experienced midwife will look at your whole picture with you and tell you honestly whether home birth is a good fit for you. For me, with my midwives, I felt safe, cared for and loved.
+It's a question every mom should ask, and I'm so glad you're asking it. The honest answer depends on your own health and your own pregnancy, so it's different for every one of us. An experienced midwife will look at your whole picture with you and tell you honestly whether home birth is a good fit for you. For me, with my midwives, I felt cared for and loved.
 
 Is home birth safe for a first baby?
 Every pregnancy is different, and with a first baby there's so much that's new. The kindest next step is to talk it through with an experienced midwife and your care provider, who can look at your health and your pregnancy with you. Many first-time moms also love the idea of a birth center (a midwife-led unit), a calm, home-like middle path.
@@ -107,7 +107,7 @@ Sources National Maternal Mental Health Hotline (HRSA)
 What is tokophobia?
 Tokophobia is a severe fear of pregnancy and childbirth, strong enough to affect daily life or decisions about pregnancy. It can happen before a first birth (sometimes called primary tokophobia) or after a difficult previous birth (secondary tokophobia). It's real, it's common, and it's treatable.
 
-If this sounds like you, please talk to your midwife or doctor. They can connect you with counseling and help you make a birth plan that feels safe. You deserve support, not judgment.
+If this sounds like you, please talk to your midwife or doctor. They can connect you with counseling and help you make a birth plan that feels right to you. You deserve support, not judgment.
 
 Sources NHS United Lincolnshire Hospitals, Fear of childbirth
 
@@ -156,7 +156,7 @@ A hospital is the right place for higher-risk pregnancies, for twins or a baby w
 
 How to choose, gently
 
-Close your eyes for a moment and ask yourself: where would I feel safest, calmest and most loved? Your body does its best work where you can relax. Then bring that answer to the practical questions:
+Close your eyes for a moment and ask yourself: where would I feel calmest and most loved? Your body does its best work where you can relax. Then bring that answer to the practical questions:
 
 Is my pregnancy healthy and low-risk? Your provider can tell you, and it can change, so keep asking.
 How far is the nearest hospital, and what is the midwife's transfer plan?
@@ -197,9 +197,9 @@ But birth doesn't have to look like that. Yes, there's intensity, and there can 
 
 Why feeling calm matters to your body
 
-Labor is guided by hormones. Oxytocin, often called the love hormone, powers contractions, and endorphins are your body's own comfort. They flow best when you feel safe, private and undisturbed. When you feel afraid or rushed, stress hormones like adrenaline rise, and they can slow labor down.
+Labor is guided by hormones. Oxytocin, often called the love hormone, powers contractions, and endorphins are your body's own comfort. They flow best when you feel calm, private and undisturbed. When you feel afraid or rushed, stress hormones like adrenaline rise, and they can slow labor down.
 
-Childbirth pioneer Grantly Dick-Read called this the fear-tension-pain cycle: fear makes us tense, and tension makes pain feel stronger. The good news is that the cycle works the other way too. Feeling safe and supported helps your body soften and open.
+Childbirth pioneer Grantly Dick-Read called this the fear-tension-pain cycle: fear makes us tense, and tension makes pain feel stronger. The good news is that the cycle works the other way too. Feeling calm and supported helps your body soften and open.
 
 Gentle things that help
 
@@ -216,7 +216,7 @@ I didn't feel confident at the start either. My confidence grew month by month, 
 
 When the fear feels too big
 
-Sometimes fear is so strong that it keeps you up at night or changes how you feel about your pregnancy. This is sometimes called tokophobia, and it's real, common and treatable. Please tell your midwife or doctor. They can connect you with counseling and help you make a birth plan that feels safe.
+Sometimes fear is so strong that it keeps you up at night or changes how you feel about your pregnancy. This is sometimes called tokophobia, and it's real, common and treatable. Please tell your midwife or doctor. They can connect you with counseling and help you make a birth plan that feels right to you.
 
 You can also call or text the free, confidential National Maternal Mental Health Hotline at 1-833-TLC-MAMA (1-833-852-6262), any time, day or night. If you're in crisis, call or text 988. In an emergency, call 911.
 
@@ -267,7 +267,7 @@ What does it cost, and will you help me check my insurance?
 
 6. Your feelings matter to your body
 
-Feeling safe, calm and loved isn't a luxury in labor. It helps the hormones of birth do their work. So the question of where to give birth isn't only a medical one. It's also a question of where your body can relax enough to do what it was made to do.
+Feeling calm and loved isn't a luxury in labor. It helps the hormones of birth do their work. So the question of where to give birth isn't only a medical one. It's also a question of where your body can relax enough to do what it was made to do.
 
 7. You don't have to figure it out alone
 
@@ -704,14 +704,14 @@ Make a plan for every path. Ask your midwife what happens if you need to go to t
 
 Is it safe?
 
-Every mom should ask this question, and I'm so glad you're asking it. The honest answer depends on your own health and your own pregnancy, so it's different for every one of us. An experienced midwife will look at your whole picture with you and tell you honestly whether home birth is a good fit for you. For me, with my midwives, I felt safe, cared for and loved.
+Every mom should ask this question, and I'm so glad you're asking it. The honest answer depends on your own health and your own pregnancy, so it's different for every one of us. An experienced midwife will look at your whole picture with you and tell you honestly whether home birth is a good fit for you. For me, with my midwives, I felt cared for and loved.
 
 Whatever you choose, talk it through with an experienced midwife and your care provider. They know you and your pregnancy, and they're the right people to help you decide.
 
 Questions moms ask
 
 Is it safe to have a home birth with my first baby?
-It's a question every mom should ask. The honest answer depends on your own health and your own pregnancy, so it's different for every one of us. An experienced midwife will look at your whole picture with you and tell you honestly whether home birth is a good fit for you. For me, with my midwives, I felt safe, cared for and loved.
+It's a question every mom should ask. The honest answer depends on your own health and your own pregnancy, so it's different for every one of us. An experienced midwife will look at your whole picture with you and tell you honestly whether home birth is a good fit for you. For me, with my midwives, I felt cared for and loved.
 Do midwives take first-time moms for home births?
 Many do. Each midwife has her own guidelines and each state has its own rules, so ask her directly at your first consultation.
 Should I choose a birth center instead for my first baby?
@@ -1187,7 +1187,7 @@ At home or in a birth center, the care is built around one family: yours. Your m
 
 Your body was made for this. Women have given birth for thousands of years, but many of us have lost touch with that knowing, so we have to learn to tune in again. A good midwife can help you find your way back, and you can practice it yourself. And your baby takes part too. With my second birth, I felt like my baby was guiding me the whole way and taught me so much. For healthy, low-risk pregnancies, a planned home birth with a qualified midwife and a clear backup plan is a real option worth exploring with your provider.
 
-And if plans change? A good midwife has a transfer plan from the very first visit: which hospital, how long it takes, and when she'd recommend going. We'll talk about that on Day 4, because feeling safe also means knowing there's a backup.
+And if plans change? A good midwife has a transfer plan from the very first visit: which hospital, how long it takes, and when she'd recommend going. We'll talk about that on Day 4, because feeling calm also means knowing there's a backup.
 
 A question for you: what part of this picture made you exhale? Write to me at hello@borninthenest.com. I read every message.
 
@@ -1383,7 +1383,7 @@ Every Sunday, I'll walk beside you through your pregnancy, the way my midwives w
 
 Free. No spam, unsubscribe anytime. Snacks encouraged. · The five lessons are free below, no signup →
 
-In the movies, birth is a woman screaming while everyone rushes around her. We've seen that scene so many times that most of us grow up believing it's what birth is. It isn't. Your body already knows how to give birth, and it does its best work where you feel safe, calm and loved. I'm Sybille, a mom of two. My first baby was born in a hospital and my second at home, and the difference changed everything for me.
+In the movies, birth is a woman screaming while everyone rushes around her. We've seen that scene so many times that most of us grow up believing it's what birth is. It isn't. Your body already knows how to give birth, and it does its best work where you feel calm and loved. I'm Sybille, a mom of two. My first baby was born in a hospital and my second at home, and the difference changed everything for me.
 
 Five free lessons · no signup needed
 
