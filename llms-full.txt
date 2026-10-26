@@ -58,9 +58,9 @@ A first labor often takes its time, so plans can change along the way, and that'
 Home birth vs birth center: what's the difference?
 With a home birth, your midwife comes to you. You labor in your own space, in your own bed or a birth pool, with only the people you choose. With a birth center, you go to a home-like place run by midwives, often with large beds and birth tubs, and with arrangements for transfer to a hospital when needed.
 
-Both are midwife-led and built for healthy, low-risk pregnancies. In a large US study of birth centers, 84 in 100 women gave birth at the center and 6 in 100 had a cesarean. Choosing between them often comes down to where you feel most relaxed, how far you live from a hospital, and what's available near you.
+Both are midwife-led and built for healthy, low-risk pregnancies. Choosing between them often comes down to where you feel most relaxed, how far you live from a hospital, and what's available near you.
 
-Sources American Association of Birth Centers · Stapleton et al. 2013, National Birth Center Study II
+Sources American Association of Birth Centers
 
 Who is a good candidate for a home birth or birth center?
 Out-of-hospital birth is planned for healthy, low-risk pregnancies. According to ACOG, it's generally considered when you're carrying one baby, the baby is head-down, you're between about 37 and 42 weeks, and you don't have conditions like diabetes, high blood pressure or preeclampsia. ACOG recommends against planned home birth for a baby who isn't head-down, for twins, and after a previous cesarean.
@@ -152,7 +152,7 @@ Midwives bring equipment to listen to your baby, check your blood pressure, help
 
 A birth center is a freestanding, home-like place run by midwives. The American Association of Birth Centers calls it "a maximized home rather than a mini-hospital," with comfy beds, birth tubs and family welcome, plus arrangements for transfer to a hospital when needed.
 
-It's a calm middle path, and a good choice for a first baby. In a large US study of 79 birth centers, 84 in 100 women gave birth at the center and 6 in 100 had a cesarean.
+It's a calm middle path, and a good choice for a first baby. You usually have your pregnancy checkups there too, so you get to know the midwives before labor.
 
 🏥 Hospital
 
@@ -176,7 +176,7 @@ Notice how you feel afterward. Calm and heard is a very good sign.
 
 Want more answers? Read the gentle FAQ, or start with my five free lessons.
 
-Sources ACOG, Planned Home Birth FAQ · AABC · Stapleton et al. 2013
+Sources ACOG, Planned Home Birth FAQ · AABC
 
 With love from my nest to yours,Sybille 🤍
 
@@ -1337,7 +1337,7 @@ Your three options, simply
 
 🏡 Home birth: your own space, a midwife you know, and the people you love around you. It's planned for healthy, low-risk pregnancies, with a qualified midwife and a clear transfer plan, and it usually involves fewer interventions like inductions, episiotomies and cesareans. Every pregnancy is different, so talk your options through with an experienced midwife or doctor who knows you.
 
-🌿 Birth center: a home-like, midwife-led space outside the hospital, with comfy beds and birth tubs. It's a calm middle path and a good choice for a first baby. In a large US study, about 6 in 100 women who started labor in a birth center ended up with a cesarean.
+🌿 Birth center: a home-like, midwife-led space outside the hospital, with comfy beds and birth tubs. It's a calm middle path and a good choice for a first baby. Midwives lead your care there, and your family is welcome.
 
 🏥 Hospital: the right place for higher-risk pregnancies, or if you know you'd like an epidural. Many hospitals have midwives on the team too, and you can bring calm with you: dim lights, your own music, and your breathing.
 
@@ -1362,7 +1362,7 @@ When you're ready to read more: Ina May's Guide to Childbirth and Spiritual Midw
 
 Short on time? I've got you. I'll be doing a deep dive into each of these books in my weekly letter, with the most important takeaways, in case you don't have time to read them all.
 
-Sources ACOG, Planned Home Birth FAQ · Stapleton et al. 2013, National Birth Center Study II · ACNM credential comparison (2026)
+Sources ACOG, Planned Home Birth FAQ · ACNM credential comparison (2026)
 
 With love from my nest to yours,Sybille 🤍
 
@@ -1430,7 +1430,7 @@ Your own nest. Your bed, your people, your snacks, your playlist.
 
 Fewer interventions. ACOG notes that planned home births usually involve fewer inductions, episiotomies and cesareans.
 
-A midwife who knows you. In a Cochrane review, women with midwife-led continuity of care were more likely to have a spontaneous vaginal birth and less likely to have an epidural.
+A midwife who knows you. With continuity of midwife care, you see the same midwife, or the same small team, through pregnancy, birth and the weeks after.
 
 Home birth is planned for healthy, low-risk pregnancies, and it isn't right for every pregnancy. ACOG recommends against it with twins, a baby who isn't head-down, or after a previous cesarean. But ask before you rule it out: an experienced midwife or doctor who knows you can help you find what fits. When a home birth might still be possible →
 
