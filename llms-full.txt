@@ -98,11 +98,11 @@ What you actually pay depends on your insurance and your state. Many midwives wi
 Sources Anderson & Gilkison 2021, The Cost of Home Birth in the United States
 
 I'm scared of giving birth. Is that normal?
-Yes, it's very normal, and you're not alone. Most of us feel some worry about birth. Research suggests that about 14 in 100 pregnant women worldwide feel a severe fear of childbirth, and about 16 in 100 first-time moms. So much of what we've seen of birth comes from movies, where it's always an emergency.
+Yes, it's very normal, and you're not alone. Most of us feel some worry about birth. So much of what we've seen of birth comes from movies, where it's always an emergency.
 
 What helps: learning how birth really works, knowing your options, a midwife or doctor you trust who gets to know you, and practicing calm breathing and relaxation. If your fear feels too big, please tell your provider. You can also call or text the free, confidential National Maternal Mental Health Hotline at 1-833-TLC-MAMA (1-833-852-6262), 24/7.
 
-Sources O'Connell et al. 2017, Acta Obstet Gynecol Scand · National Maternal Mental Health Hotline (HRSA)
+Sources National Maternal Mental Health Hotline (HRSA)
 
 What is tokophobia?
 Tokophobia is a severe fear of pregnancy and childbirth, strong enough to affect daily life or decisions about pregnancy. It can happen before a first birth (sometimes called primary tokophobia) or after a difficult previous birth (secondary tokophobia). It's real, it's common, and it's treatable.
@@ -112,14 +112,10 @@ If this sounds like you, please talk to your midwife or doctor. They can connect
 Sources NHS United Lincolnshire Hospitals, Fear of childbirth · O'Connell et al. 2017
 
 Does having a midwife I know really make a difference?
-It can. A Cochrane review of 15 trials with more than 17,000 women compared midwife-led continuity of care, where you get to know your midwife, with other models of care. Women in midwife-led continuity care were less likely to have an epidural or an instrumental birth, more likely to have a spontaneous vaginal birth, and most studies found they were more satisfied with their care.
-
-Sources Sandall et al. 2016, Cochrane Database of Systematic Reviews
+With continuity of midwife care, you see the same midwife, or the same small team, through pregnancy, birth and the weeks after. By the time labor starts, you already know each other.
 
 Can a birth pool or warm water help with pain?
-Warm water is one of the gentlest comfort tools. A Cochrane review found that being in water during the first stage of labor may lower the need for an epidural (about 39 in 100 women compared with 43 in 100). Many women also simply find it calming. Ask your midwife or birth center about birth pools and tubs.
-
-Sources Cluett et al. 2018, Cochrane Database of Systematic Reviews
+Warm water, such as a birth pool, tub or shower, is one comfort option many midwives and birth centers offer. Ask your midwife or birth center about birth pools and tubs.
 
 What is hypnobirthing?
 Hypnobirthing is a childbirth education approach that uses deep relaxation, slow breathing and visualization to help you stay calm in labor. It's built on the idea of the fear-tension-pain cycle, first described by Grantly Dick-Read: fear makes the body tense, and tension makes pain feel stronger. The best-known method is HypnoBirthing: The Mongan Method by Marie Mongan.
@@ -146,7 +142,7 @@ Before my first birth, no one ever asked me where I wanted to give birth. I didn
 
 At a planned home birth, a midwife cares for you through pregnancy, comes to you when labor begins, and stays with you through the birth and the first hours after. Prenatal visits are often long and unhurried, sometimes in your own living room. In labor you can move, eat, rest, use a birth pool and be surrounded only by the people you choose.
 
-Midwives bring equipment to listen to your baby, check your blood pressure, help with bleeding and help a baby breathe if needed, and they plan a route to a hospital from the very first visit. For healthy, low-risk pregnancies, large studies have found fewer interventions at home, such as inductions, episiotomies and cesareans. If this is your first baby, remember that every pregnancy is different. Talk it through with an experienced midwife and your care provider, so you can choose what feels right for you.
+Midwives bring equipment to listen to your baby, check your blood pressure, help with bleeding and help a baby breathe if needed, and they plan a route to a hospital from the very first visit. If this is your first baby, remember that every pregnancy is different. Talk it through with an experienced midwife and your care provider, so you can choose what feels right for you.
 
 🌿 Birth center
 
@@ -191,7 +187,7 @@ Gentle guide
 🤍Scared of giving birth? You are not alone
 Fear of birth is so common. Here's where it comes from, and what gently helps.
 
-If you're scared of giving birth, I want you to hear this first: there is nothing wrong with you. Most of us feel some worry about birth, and many women feel real fear. Research suggests that about 14 in 100 pregnant women worldwide have a severe fear of childbirth, and about 16 in 100 first-time moms. You are in very good company.
+If you're scared of giving birth, I want you to hear this first: there is nothing wrong with you. Most of us feel some worry about birth, and many women feel real fear. You are in very good company.
 
 Where the fear comes from
 
@@ -209,9 +205,9 @@ Gentle things that help
 
 Learning how birth really works. The unknown is scary. Knowing what labor actually looks like takes away a lot of fear.
 Knowing your options. You can choose where you give birth and who is with you. Read about your birth options.
-A midwife or doctor who knows you. In a Cochrane review, women who had continuity of care with a known midwife were less likely to need an epidural, and most studies found they felt more satisfied with their care.
+A midwife or doctor who knows you. You see the same person, or the same small team, through pregnancy and birth, so you know each other before labor.
 Practicing calm breathing. Slow breaths, longer on the out-breath, practiced for weeks before so your body knows them. I practiced every time I stopped at a red traffic light while driving, and I still do.
-Warm water. A bath or birth pool in labor may lower the need for an epidural.
+Warm water. A bath or birth pool in labor is one comfort option many midwives and birth centers offer.
 Your people. Surround yourself with those who make you feel loved. As my midwife Sarah always said, pregnant women need to feel loved.
 
 Confidence can grow, little by little
@@ -226,7 +222,7 @@ You can also call or text the free, confidential National Maternal Mental Health
 
 You deserve to feel supported, not judged. If you'd like a gentle companion along the way, my five free lessons are a good place to start.
 
-Sources O'Connell et al. 2017 · Buckley 2015, Hormonal Physiology of Childbearing · Sandall et al. 2016, Cochrane · Cluett et al. 2018, Cochrane · OpenStax, Hypnobirthing · National Maternal Mental Health Hotline
+Sources Buckley 2015, Hormonal Physiology of Childbearing · OpenStax, Hypnobirthing · National Maternal Mental Health Hotline
 
 With love from my nest to yours,Sybille 🤍
 
@@ -291,7 +287,7 @@ Birth center vs hospital: who cares for you, what's available, what it costs bef
 Gentle answers
 🌷Birth center vs hospital: what's the difference?
 
-The short answer: A birth center is a home-like place run by midwives, made for healthy pregnancies and undisturbed birth. A hospital has doctors, anesthesiologists and epidurals on site, and many have midwives too. Birth centers have fewer epidurals, inductions and cesareans. Before insurance, a 2021 study cited about $8,300 for a birth center birth and about $13,600 for a vaginal hospital birth.
+The short answer: A birth center is a home-like place run by midwives, made for healthy pregnancies and undisturbed birth. A hospital has doctors, anesthesiologists and epidurals on site, and many have midwives too. Before insurance, a 2021 study cited about $8,300 for a birth center birth and about $13,600 for a vaginal hospital birth.
 
 By Sybille Mom of two · first birth in a hospital, second at home · Education only, not medical advice
 
@@ -313,7 +309,7 @@ At a hospital, epidurals, doctors and an operating room are right there. Many ho
 
 How birth tends to go
 
-Birth centers are built for undisturbed, low-intervention birth, and they have fewer epidurals, inductions and cesareans (National Birth Center Study II). If you'd like an epidural or need more help, the hospital is there for exactly that, and I'm grateful it is.
+Birth centers are built for undisturbed, low-intervention birth. If you'd like an epidural or need more help, the hospital is there for exactly that, and I'm grateful it is.
 
 What it costs
 
@@ -349,7 +345,7 @@ Keep reading
 
 Day 5The question no one asked me before my first birth›🪺More gentle answers›
 
-Sources AABC, What is a birth center? · ACNM, Comparison of CNMs, CMs and CPMs (2026) · Stapleton et al. 2013, National Birth Center Study II · Anderson & Gilkison 2021, The Cost of Home Birth in the United States
+Sources AABC, What is a birth center? · ACNM, Comparison of CNMs, CMs and CPMs (2026) · Anderson & Gilkison 2021, The Cost of Home Birth in the United States
 
 With love from my nest to yours,Sybille 🤍
 
@@ -1053,7 +1049,7 @@ What's included depends on her training and your state's rules. In Utah, for exa
 
 Comfort things
 
-Many midwives also bring, rent or recommend comfort tools, like a birth pool, a birth stool or a birth ball. Warm water is one of the gentlest comfort tools. A Cochrane review found that being in water during the first stage of labor may lower the need for an epidural.
+Many midwives also bring, rent or recommend comfort tools, like a birth pool, a birth stool or a birth ball.
 
 A second pair of hands
 
@@ -1086,7 +1082,7 @@ Keep reading
 
 Day 2What birth looks like when no one's in a hurry›🪺More gentle answers›
 
-Sources ACOG, Planned Home Birth FAQ · Utah Code Title 58, Chapter 77, Direct-Entry Midwife Act · Cluett et al. 2018, Cochrane Database of Systematic Reviews
+Sources ACOG, Planned Home Birth FAQ · Utah Code Title 58, Chapter 77, Direct-Entry Midwife Act
 
 With love from my nest to yours,Sybille 🤍
 
@@ -1301,7 +1297,7 @@ Comfort, the gentle way
 
 Remember Day 1? Fear makes us tense, and tension makes pain feel stronger. Childbirth pioneer Grantly Dick-Read called this the fear-tension-pain cycle, and Marie Mongan built her hypnobirthing method on breaking it. Here's what helps:
 
-Warm water. A birth pool or bath. A Cochrane review found it slightly lowered the use of epidurals.
+Warm water. A birth pool or bath.
 Movement. Swaying, walking, leaning over a ball or the bed.
 Calm birth breathing. Slow breaths, long on the exhale, practiced for weeks before so your body knows them.
 Touch and sound. Massage, counter-pressure on your lower back, low humming, a soft, loose jaw.
@@ -1311,7 +1307,7 @@ None of this has to wait until the big day. My midwives helped me practice it fo
 
 Today's practice: breathe in for 4, out for 6, and let your jaw go loose. Do it for two minutes tonight before sleep. A tip someone once gave me that I still use, even now that I'm not pregnant: practice a few slow breaths every time you stop at a red traffic light while driving.
 
-Sources Cheyney et al. 2014, MANA Statistics Project · ACOG, Planned Home Birth FAQ · Cluett et al. 2018, Cochrane · OpenStax, Hypnobirthing: The Mongan Method · ACOG, If Your Baby Is Breech · NICE NG235, Intrapartum care: planning place of birth
+Sources Cheyney et al. 2014, MANA Statistics Project · ACOG, Planned Home Birth FAQ · OpenStax, Hypnobirthing: The Mongan Method · ACOG, If Your Baby Is Breech · NICE NG235, Intrapartum care: planning place of birth
 
 With love,Sybille 🤍
 
@@ -1335,7 +1331,7 @@ You made it to Day 5! Here's the big idea one more time: you have a choice, and 
 
 Your three options, simply
 
-🏡 Home birth: your own space, a midwife you know, and the people you love around you. It's planned for healthy, low-risk pregnancies, with a qualified midwife and a clear transfer plan, and it usually involves fewer interventions like inductions, episiotomies and cesareans. Every pregnancy is different, so talk your options through with an experienced midwife or doctor who knows you.
+🏡 Home birth: your own space, a midwife you know, and the people you love around you. It's planned for healthy, low-risk pregnancies, with a qualified midwife and a clear transfer plan. Every pregnancy is different, so talk your options through with an experienced midwife or doctor who knows you.
 
 🌿 Birth center: a home-like, midwife-led space outside the hospital, with comfy beds and birth tubs. It's a calm middle path and a good choice for a first baby. Midwives lead your care there, and your family is welcome.
 
@@ -1422,13 +1418,11 @@ MythAt home, you're on your own if plans change.
 FactA planned home birth is made with a qualified midwife and a hospital transfer plan arranged before labor, as ACOG recommends. In a US study of 16,924 planned home births, about 9 in 10 moms gave birth at home, and most moves to the hospital were for a long, slow labor.
 
 MythWithout a hospital, there's nothing for the pain.
-FactMany midwives bring a birth pool, and a Cochrane review found that laboring in warm water slightly reduced the use of epidurals. Some moms want stronger relief than home can offer, and that's okay too. And you don't have to walk in cold on the day. My midwives helped me prepare all through my pregnancy, the way an Olympian trains for a race. For me, that changed everything: it was pain, but not suffering.
+FactMany midwives bring a birth pool, so warm water is one comfort option at home. Some moms want stronger relief than home can offer, and that's okay too. And you don't have to walk in cold on the day. My midwives helped me prepare all through my pregnancy, the way an Olympian trains for a race. For me, that changed everything: it was pain, but not suffering.
 
 Why so many moms love it
 
 Your own nest. Your bed, your people, your snacks, your playlist.
-
-Fewer interventions. ACOG notes that planned home births usually involve fewer inductions, episiotomies and cesareans.
 
 A midwife who knows you. With continuity of midwife care, you see the same midwife, or the same small team, through pregnancy, birth and the weeks after.
 
