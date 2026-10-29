@@ -7,7 +7,7 @@
 
 ## Home birth & birth center FAQ · Born in the Nest
 URL: https://borninthenest.com/faq.html
-Answers: is home birth safe, home birth vs birth center, finding a midwife, home birth cost, fear of childbirth and first-time mom choices.
+Answers to your birth questions: what to know about home birth, home birth vs birth center, finding a midwife, home birth cost, fear of childbirth and first-time mom choices.
 
 FAQ
 Answers to your birth questions
@@ -18,8 +18,8 @@ These are the questions I hear most, and the ones I wish I'd asked before my fir
 Jump to a question
 What are my options for where to give birth in the US?
 What are the alternatives to a hospital birth?
-Is home birth safe?
-Is home birth safe for a first baby?
+What should I know about home birth?
+What should I know about home birth with a first baby?
 Home birth vs birth center: what's the difference?
 Who is a good candidate for a home birth or birth center?
 What happens if I need to go to the hospital during labor?
@@ -36,9 +36,9 @@ Is Born in the Nest medical advice?
 What are my options for where to give birth in the US?
 You can plan to give birth at home with a qualified midwife, in a freestanding birth center, or in a hospital. ACOG, the professional organization of US obstetricians, says clearly that you have the right to choose where you give birth, and encourages you to learn the benefits and risks of each option first.
 
-Most US babies are born in hospitals. In 2024, about 1.6% were born at home and about 0.6% in birth centers, so if you've never heard much about the other two options, you're not alone.
+Most US babies are born in hospitals, so if you've never heard much about the other two options, you're not alone.
 
-Sources ACOG, Planned Home Birth FAQ · CDC/NCHS final birth data for 2024 (Natality User Guide, Tables 14–15)
+Sources ACOG, Planned Home Birth FAQ · CDC/NCHS final birth data (Natality User Guide)
 
 What are the alternatives to a hospital birth?
 The two main alternatives are a planned home birth and a birth center birth. Both are usually led by midwives, built around undisturbed, low-intervention birth, and planned with a clear path to a hospital if more help is needed.
@@ -49,10 +49,10 @@ Read more: Birth center vs hospital: what's the difference?
 
 Sources American Association of Birth Centers, What is a birth center? · ACOG, Planned Home Birth FAQ
 
-Is home birth safe?
+What should I know about home birth?
 It's a question every mom should ask, and I'm so glad you're asking it. The honest answer depends on your own health and your own pregnancy, so it's different for every one of us. An experienced midwife will look at your whole picture with you and tell you honestly whether home birth is a good fit for you. For me, with my midwives, I felt cared for and loved.
 
-Is home birth safe for a first baby?
+What should I know about home birth with a first baby?
 Every pregnancy is different, and with a first baby there's so much that's new. The kindest next step is to talk it through with an experienced midwife and your care provider, who can look at your health and your pregnancy with you. Many first-time moms also love the idea of a birth center (a midwife-led unit), a calm, home-like middle path.
 
 A first labor often takes its time, so plans can change along the way, and that's okay. That's one reason a birth center can be a beautiful choice for a first baby. Many first-time moms do plan a home birth, and your midwife can help you weigh it for your own pregnancy.
@@ -74,7 +74,7 @@ If you've had a cesarean before, talk this through carefully with your provider,
 Sources ACOG, Planned Home Birth FAQ
 
 What happens if I need to go to the hospital during labor?
-In a US study of nearly 17,000 planned home births, about 9 out of 10 women gave birth at home. When plans changed, it was usually because of a long, slow labor. If this is your first baby, it's worth talking through your plan early with your midwife.
+About 9 in 10 planned home births stay home. When plans change, it's usually because of a long, slow labor. If this is your first baby, it's worth talking through your plan early with your midwife.
 
 Your midwife comes with you and shares your notes. A good midwife talks about her transfer plan at your very first visit: which hospital, how long it takes to get there, and when she'd recommend going.
 
@@ -386,7 +386,7 @@ Insurance plans and Medicaid programs often treat these credentials differently,
 
 2. Your state, if you have Medicaid
 
-Medicaid coverage for home birth differs from state to state (KFF state survey). Some programs cover it, some only when a physician or a certified nurse-midwife attends, and some require prior approval. Ask your state's Medicaid office.
+Medicaid coverage for home birth differs from state to state (KFF). Some programs cover it, some only when a physician or a certified nurse-midwife attends, and some require prior approval. Ask your state's Medicaid office.
 
 In Utah, Medicaid's pregnancy program covers pregnancy and postpartum care through 12 months after the pregnancy ends, including doula services and prenatal and postpartum home visits. Whether it covers a particular home birth midwife is a question to ask both Medicaid and the midwife directly.
 
@@ -531,7 +531,7 @@ What they have in common
 
 Both a home birth and a birth center birth are usually led by midwives. Both are built around calm, undisturbed birth, with time to get to know your midwife during pregnancy. And both are planned with a clear way to get to a hospital if you need or want more help.
 
-They're also less common than hospital births, so if no one around you has done either, you're not alone. In 2024, about 1.6% of US babies were born at home and about 0.6% in birth centers (CDC final birth data).
+They're also less common than hospital births (CDC birth data), so if no one around you has done either, you're not alone.
 
 At home
 
@@ -694,7 +694,7 @@ But I can tell you this. No one told me I had another option until my second pre
 
 Yes, it's a real option
 
-A planned home birth is a recognized choice in the US. ACOG, the organization of US obstetricians, says you have the right to choose where you give birth, and encourages you to learn about each option first. In 2024, about 1.6% of US babies were born at home, which was 58,626 babies (CDC final birth data). Some of those were first babies, and their moms asked the very same question you're asking now.
+A planned home birth is a recognized choice in the US. ACOG, the organization of US obstetricians, says you have the right to choose where you give birth, and encourages you to learn about each option first. Every year, families all over the US give birth at home (CDC birth data). Some of them are having their first baby, and those moms asked the very same question you're asking now.
 
 Whether it's right for you is a different question, and it's a personal one. It depends on your health, your pregnancy, where you live and what feels right in your heart.
 
@@ -715,7 +715,7 @@ Learn how birth really works. A good childbirth class, a few calm books and some
 Bring your partner along. It's their first birth too, and they'll feel calmer if they know the plan.
 Make a plan for every path. Ask your midwife what happens if you need to go to the hospital, so that part feels known instead of scary.
 
-Is it safe?
+What should I know first?
 
 Every mom should ask this question, and I'm so glad you're asking it. The honest answer depends on your own health and your own pregnancy, so it's different for every one of us. An experienced midwife will look at your whole picture with you and tell you honestly whether home birth is a good fit for you. For me, with my midwives, I felt cared for and loved.
 
@@ -723,7 +723,7 @@ Whatever you choose, talk it through with an experienced midwife and your care p
 
 Questions moms ask
 
-Is it safe to have a home birth with my first baby?
+What should I know about a home birth with my first baby?
 It's a question every mom should ask. The honest answer depends on your own health and your own pregnancy, so it's different for every one of us. An experienced midwife will look at your whole picture with you and tell you honestly whether home birth is a good fit for you. For me, with my midwives, I felt cared for and loved.
 Do midwives take first-time moms for home births?
 Many do. Each midwife has her own guidelines and each state has its own rules, so ask her directly at your first consultation.
@@ -1301,7 +1301,7 @@ And some things really do change the plan. With conditions like diabetes that ne
 
 What a transfer usually looks like
 
-In a large US study of almost 17,000 planned home births, about 9 out of 10 women gave birth at home. When plans changed, it was usually because of a long, slow labor. If you do move, your midwife comes with you and shares your notes. If this is your first baby, it's worth talking through your plan early with your midwife.
+About 9 in 10 planned home births stay home. When plans change, it's usually because of a long, slow labor. If you do move, your midwife comes with you and shares your notes. If this is your first baby, it's worth talking through your plan early with your midwife.
 
 Did you know? 🌿 No clock on the cord. You wait for your baby, not a schedule. Many home birth midwives wait to clamp the cord until it stops pulsing on its own. That's often a few minutes, sometimes much longer, with no clock to rush it. It's something to see. Wherever you give birth, you can ask about delayed cord clamping and add it to your birth plan.
 
@@ -1433,10 +1433,10 @@ Home birth, honestly
 A few myths untangled.
 
 MythHome birth is only for very, very crunchy people.
-FactIt's a recognized choice. ACOG, the organization of US obstetricians, says you have the right to choose where you give birth, and more than 58,000 US babies were born at home in 2024 (CDC final birth data).
+FactIt's a recognized choice. ACOG, the organization of US obstetricians, says you have the right to choose where you give birth, and families all over the US choose it every year (CDC birth data).
 
 MythAt home, you're on your own if plans change.
-FactA planned home birth is made with a qualified midwife and a hospital transfer plan arranged before labor, as ACOG recommends. In a US study of 16,924 planned home births, about 9 in 10 moms gave birth at home, and most moves to the hospital were for a long, slow labor.
+FactA planned home birth is made with a qualified midwife and a hospital transfer plan arranged before labor, as ACOG recommends. About 9 in 10 planned home births stay home, and most moves to the hospital are for a long, slow labor.
 
 MythWithout a hospital, there's nothing for the pain.
 FactMany midwives bring a birth pool, so warm water is one comfort option at home. Some moms want stronger relief than home can offer, and that's okay too. And you don't have to walk in cold on the day. My midwives helped me prepare all through my pregnancy, the way an Olympian trains for a race. For me, that changed everything: it was pain, but not suffering.
@@ -1456,7 +1456,7 @@ Guides to your birth choices
 Your birth options in the US: home, birth center or hospital→
 Scared of giving birth? You are not alone→
 First-time mom? What no one tells you about your choices→
-Answers: is home birth safe, how to find a midwife, and more→
+Answers: what to know about home birth, how to find a midwife, and more→
 
 Get the weekly letter
 
@@ -1651,7 +1651,7 @@ Honest and kind. Start wherever you are.
 
 Most of us were never told how many options we have for giving birth. These guides are here to change that. Each one links to its sources, so you can read more and talk it through with your midwife or doctor.
 
-🏡Your birth options in the US: home, birth center or hospitalThree places, three kinds of care, and one question to help you choose.›🤍Scared of giving birth? You are not aloneFear of birth is so common. Here's where it comes from, and what helps.›🌱First-time mom? What no one tells you about your birth choicesThe things I wish I'd known before my first baby.›🪺Answers, one question at a timeWhat to ask a midwife, what happens if plans change, and more›💬Answers to your birth questionsIs home birth safe? How do I find a midwife? What is tokophobia?›
+🏡Your birth options in the US: home, birth center or hospitalThree places, three kinds of care, and one question to help you choose.›🤍Scared of giving birth? You are not aloneFear of birth is so common. Here's where it comes from, and what helps.›🌱First-time mom? What no one tells you about your birth choicesThe things I wish I'd known before my first baby.›🪺Answers, one question at a timeWhat to ask a midwife, what happens if plans change, and more›💬Answers to your birth questionsWhat should I know about home birth? How do I find a midwife? What is tokophobia?›
 
 Prefer a little at a time?
 Read the five short lessons right here on the site, and if you'd like, get the weekly letter every Sunday, matched to your due month.
