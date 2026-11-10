@@ -399,3 +399,18 @@ img[src$="hero-window.jpg"]{object-position:60% 0%}img[src$="candid-socks.jpg"]{
 :is(.card.lessons,.ty-card,.ty-wait)+.prose{padding-top:0}
 :is(.card.lessons,.ty-card,.ty-wait)+.prose>h2:first-child{margin-top:48px}
 @media (max-width:640px){:is(.card.lessons,.ty-card,.ty-wait)+.prose>h2:first-child{margin-top:32px}}
+
+/* scroll-pad-1102: sticky header wraps to two rows on phones, so jumped-to headings need more room */
+@media (max-width:719px){html{scroll-padding-top:136px}}
+
+/* voice-1110: homepage hook, questions cards, story link */
+.statement .hook{margin:0 0 12px}
+.statement .hook-sub{margin:0;font-size:clamp(18px,1.7vw,22px);line-height:1.45;font-weight:400;letter-spacing:-.01em;color:var(--ink)}
+.qask-grid{display:grid;gap:14px;margin-top:8px}
+@media (min-width:700px){.qask-grid{grid-template-columns:1fr 1fr}}
+.qask{display:flex;align-items:center;justify-content:space-between;gap:16px;background:var(--bone);border-radius:var(--r);padding:22px 24px;color:var(--ink);text-decoration:none;font-size:18px;font-weight:600;letter-spacing:-.015em;line-height:1.35}
+.qask:hover{background:#EFE8E0}
+.qask span{flex:0 0 auto;color:var(--berry);font-weight:500}
+.qask-all{font-weight:600}
+.story-more{margin-top:8px}
+.story-more .link{color:#fff}

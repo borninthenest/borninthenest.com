@@ -2,12 +2,11 @@
 
 > US-focused education about birth choices (home birth, birth centers, hospitals), fear of childbirth and first-time mom choices. Education only, not medical advice. Source: https://borninthenest.com
 
-
 ---
 
 ## Home birth & birth center FAQ · Born in the Nest
 URL: https://borninthenest.com/faq.html
-Answers to your birth questions: what to know about home birth, home birth vs birth center, finding a midwife, home birth cost, fear of childbirth and first-time mom choices.
+Answers to your birth questions: home birth, home birth vs birth center, finding a midwife, home birth cost, fear of childbirth and first-time mom choices.
 
 FAQ
 Answers to your birth questions
@@ -23,8 +22,12 @@ What should I know about home birth with a first baby?
 Home birth vs birth center: what's the difference?
 Who is a good candidate for a home birth or birth center?
 What happens if I need to go to the hospital during labor?
+My partner is worried about home birth. What can help?
+How do I tell my family I'm planning a home birth?
 How do I find a midwife?
 What's the difference between a CNM, a CM and a CPM?
+When do I need to decide where to give birth?
+What should I ask on a birth center tour?
 How much does a home birth cost?
 I'm scared of giving birth. Is that normal?
 What is tokophobia?
@@ -34,11 +37,11 @@ What is hypnobirthing?
 Is Born in the Nest medical advice?
 
 What are my options for where to give birth in the US?
-You can plan to give birth at home with a qualified midwife, in a freestanding birth center, or in a hospital. ACOG, the professional organization of US obstetricians, says clearly that you have the right to choose where you give birth, and encourages you to learn the benefits and risks of each option first.
+You can plan to give birth at home with a qualified midwife, in a freestanding birth center, or in a hospital. The American College of Nurse-Midwives says you have the right to take part in deciding where you give birth, with clear information about the benefits and risks of each setting. NICE, the UK's national guideline body, says women may choose any birth setting, including home, and should be supported in their choice.
 
 Most US babies are born in hospitals, so if you've never heard much about the other two options, you're not alone.
 
-Sources ACOG, Planned Home Birth FAQ · CDC/NCHS final birth data (Natality User Guide)
+Sources ACNM, Position Statement: Planned Home Birth (updated Dec 2025) · NICE NG235, Intrapartum care (updated Jun 2026) · CDC/NCHS final birth data (Natality User Guide)
 
 What are the alternatives to a hospital birth?
 The two main alternatives are a planned home birth and a birth center birth. Both are usually led by midwives, built around undisturbed, low-intervention birth, and planned with a clear path to a hospital if more help is needed.
@@ -47,7 +50,7 @@ A birth center is a freestanding, home-like place for birth. The American Associ
 
 Read more: Birth center vs hospital: what's the difference?
 
-Sources American Association of Birth Centers, What is a birth center? · ACOG, Planned Home Birth FAQ
+Sources American Association of Birth Centers, What is a birth center? · ACNM, Position Statement: Planned Home Birth (updated Dec 2025)
 
 What should I know about home birth?
 It's a question every mom should ask, and I'm so glad you're asking it. The honest answer depends on your own health and your own pregnancy, so it's different for every one of us. An experienced midwife will look at your whole picture with you and tell you honestly whether home birth is a good fit for you. For me, with my midwives, I felt cared for and loved.
@@ -67,14 +70,14 @@ Both are midwife-led and built for healthy, low-risk pregnancies. Choosing betwe
 Sources American Association of Birth Centers
 
 Who is a good candidate for a home birth or birth center?
-Out-of-hospital birth is planned for healthy, low-risk pregnancies. According to ACOG, it's generally considered when you're carrying one baby, the baby is head-down, you're between about 37 and 42 weeks, and you don't have conditions like diabetes, high blood pressure or preeclampsia. ACOG recommends against planned home birth for a baby who isn't head-down, for twins, and after a previous cesarean.
+Out-of-hospital birth is planned for healthy, low-risk pregnancies. NICE, the UK's national guideline body, lists situations where it suggests planning birth in an obstetric unit (a hospital labor ward) instead, including twins, a baby who is breech or lying sideways, a previous cesarean, labor starting early, preeclampsia or high blood pressure in pregnancy, and diabetes that needs medication.
 
 If you've had a cesarean before, talk this through carefully with your provider, because guidelines and state rules differ. Your midwife will keep checking throughout pregnancy and labor, and plans can change if your needs change.
 
-Sources ACOG, Planned Home Birth FAQ
+Sources NICE NG235, Intrapartum care (updated Jun 2026)
 
 What happens if I need to go to the hospital during labor?
-If plans change, it's usually because of a long, slow labor. If this is your first baby, it's worth talking through your plan early with your midwife.
+If plans change, a long, slow labor is one of the primary reasons for moving to a hospital listed by NICE, the UK's national guideline body. If this is your first baby, it's worth talking through your plan early with your midwife.
 
 Your midwife comes with you and shares your notes. A good midwife talks about her transfer plan at your very first visit: which hospital, how long it takes to get there, and when she'd recommend going.
 
@@ -82,8 +85,20 @@ Read more: What happens if you need to transfer to the hospital during a home bi
 
 Sources Cheyney et al. 2014, MANA Statistics Project
 
+My partner is worried about home birth. What can help?
+Take the worry seriously and bring your partner into the decision. Meet the midwife together, and ask her to walk you both through her transfer plan: which hospital, how you'd get there and what would make her recommend going. You don't have to settle it in one conversation.
+
+Read more: My partner is worried about a home birth. What can help?
+
+Sources ACNM, Position Statement: Planned Home Birth (updated Dec 2025)
+
+How do I tell my family I'm planning a home birth?
+You don't have to tell anyone before the birth. I didn't, and that was okay. If you do share, tell them about the plan, not just the place: who your midwife is and that she has a transfer plan with a hospital. Listen to their worry, and remember you don't owe anyone a debate. Whether older children will be at the birth is a family decision to make with your midwife.
+
+Read more: How do I tell my family I'm planning a home birth?
+
 How do I find a midwife?
-Start with the directories: the ACNM Find a Midwife search for certified nurse-midwives, NARM to verify a certified professional midwife, and the American Association of Birth Centers to find a birth center near you. Then book a no-cost consultation with one or two midwives. Most offer one.
+Start with the directories: the ACNM Find a Midwife search for certified nurse-midwives, NARM to verify a certified professional midwife, and the American Association of Birth Centers to find a birth center near you. Then book a consultation with one or two midwives. Most offer one.
 
 Ask about her training and experience, who her backup is, her transfer plan and hospital, what equipment and medicines she brings, and what it costs. Then notice how you feel after talking with her. Calm and heard is a very good sign.
 
@@ -96,7 +111,21 @@ A certified nurse-midwife (CNM) is a registered nurse with graduate midwifery ed
 
 Which one you choose often depends on where you want to give birth and what your state allows. Insurance coverage also differs, so it's worth asking each midwife.
 
+Read more: What the letters after her name mean
+
 Sources ACNM comparison of CNM, CM and CPM credentials (2026)
+
+When do I need to decide where to give birth?
+Starting early gives you the most choice, because some midwives and birth centers book up. But it's rarely too late to ask, and you can switch providers during pregnancy. Call, ask what's possible, and trust your gut.
+
+Read more: When do I need to decide where to give birth? Can I switch?
+
+What should I ask on a birth center tour?
+Ask who will care for you, whether the center is accredited and licensed, what happens if you need a hospital, how long families stay after the birth, and what the price includes. Then notice how the place and the people make you feel.
+
+Read more: What should I ask on a birth center tour?
+
+Sources CABC · AABC
 
 How much does a home birth cost?
 A home birth midwife usually charges one package fee that covers prenatal visits, the birth and postpartum care. Fees vary from one midwife to the next, and birth centers and hospitals price their care differently, so ask each for its price and what's included.
@@ -106,9 +135,9 @@ What you actually pay depends on your insurance and your state. Many midwives wi
 Read more: How much does a home birth cost? · Does insurance cover a home birth?
 
 I'm scared of giving birth. Is that normal?
-Yes, it's very normal, and you're not alone. Most of us feel some worry about birth. So much of what we've seen of birth comes from movies, where it's always an emergency.
+Yes, it's very normal, and you're not alone. Fear of birth is so common because we grew up believing birth is scary. It is not. Your body is amazing, and it knows how to do this. Written by a mom who felt this fear too.
 
-What helps: learning how birth really works, knowing your options, a midwife or doctor you trust who gets to know you, and practicing calm breathing and relaxation. If your fear feels too big, please tell your provider. You can also call or text the confidential, no-cost National Maternal Mental Health Hotline at 1-833-TLC-MAMA (1-833-852-6262), 24/7.
+What helps: learning how birth really works, not the movie version. Labor comes in waves, and between contractions you get real breaks to rest and breathe. Nature doesn't want you to suffer. Knowing your options, a midwife or doctor who helps you feel calm, heard, and loved, and practicing calm breathing also help. If your fear feels too big, please tell your provider. You can also call or text the confidential National Maternal Mental Health Hotline at 1-833-TLC-MAMA (1-833-852-6262), 24/7.
 
 Sources National Maternal Mental Health Hotline (HRSA)
 
@@ -174,13 +203,13 @@ Who do I want in the room with me?
 Your first steps
 
 Find a midwife or birth center. Try the ACNM Find a Midwife search, NARM for certified professional midwives, and the AABC birth center directory.
-Book a no-cost consultation with one or two. Most offer one.
+Book a consultation with one or two. Most offer one.
 Ask your questions about training, backup, transfer plan, equipment and cost.
 Notice how you feel afterward. Calm and heard is a very good sign.
 
 Want more answers? Read the FAQ, or start with my five short lessons.
 
-Sources ACOG, Planned Home Birth FAQ · AABC
+Sources ACNM, Position Statement: Planned Home Birth (updated Dec 2025) · NICE NG235, Intrapartum care (updated Jun 2026) · AABC
 
 With love from my nest to yours,Sybille 🤍
 
@@ -193,13 +222,13 @@ Afraid of giving birth? You're not alone. Where fear of childbirth comes from, w
 
 Guide
 🤍Scared of giving birth? You are not alone
-Fear of birth is so common. Here's where it comes from, and what helps.
+Fear of birth is so common because we grew up believing birth is scary. It is not.
 
 If you're scared of giving birth, I want you to hear this first: there is nothing wrong with you. Most of us feel some worry about birth, and many women feel real fear. You are in very good company.
 
 Where the fear comes from
 
-In the movies, birth is a woman screaming while everyone rushes around her. We've seen that scene so many times that most of us grow up believing it's what birth is. Add a few scary stories from friends, and it makes sense that fear moves in long before labor does. I know this one personally. I was so excited to meet my first baby, and so scared to give birth. That fear guided my whole first pregnancy.
+Fear of birth is so common because we grew up believing birth is scary. It is not. We've been shown a movie version of birth, but labor really comes in waves, and between contractions you get real breaks to rest and breathe. Nature doesn't want you to suffer. Your body is amazing, and it knows how to do this. I know this one personally. I was so excited to meet my first baby, and so scared to give birth. That fear guided my whole first pregnancy. Written by a mom who felt this fear too.
 
 But birth doesn't have to look like that. Yes, there's intensity, and there can be pain. But pain and suffering aren't the same thing. For me, the difference was preparation. My midwives helped me get ready all through my pregnancy, almost like training for a big race, so I didn't walk into labor cold.
 
@@ -209,9 +238,9 @@ Labor is guided by hormones. Oxytocin, often called the love hormone, powers con
 
 Childbirth pioneer Grantly Dick-Read called this the fear-tension-pain cycle: fear makes us tense, and tension makes pain feel stronger. The good news is that the cycle works the other way too. Feeling calm and supported helps your body soften and open.
 
-Things that help
+What helps
 
-Learning how birth really works. The unknown is scary. Knowing what labor actually looks like takes away a lot of fear.
+Learning how birth really works, not the movie version. Labor comes in waves, with real breaks between contractions. Nature doesn't want you to suffer.
 Knowing your options. You can choose where you give birth and who is with you. Read about your birth options.
 A midwife or doctor who knows you. You see the same person, or the same small team, through pregnancy and birth, so you know each other before labor.
 Practicing calm breathing. Slow breaths, longer on the out-breath, practiced for weeks before so your body knows them. I practiced every time I stopped at a red traffic light while driving, and I still do.
@@ -226,7 +255,7 @@ When the fear feels too big
 
 Sometimes fear is so strong that it keeps you up at night or changes how you feel about your pregnancy. This is sometimes called tokophobia, and it's real, common and treatable. Please tell your midwife or doctor. They can connect you with counseling and help you make a birth plan that feels right to you.
 
-You can also call or text the confidential, no-cost National Maternal Mental Health Hotline at 1-833-TLC-MAMA (1-833-852-6262), any time, day or night. If you're in crisis, call or text 988. In an emergency, call 911.
+You can also call or text the confidential National Maternal Mental Health Hotline at 1-833-TLC-MAMA (1-833-852-6262), any time, day or night. If you're in crisis, call or text 988. In an emergency, call 911.
 
 You deserve to feel supported, not judged. If you'd like a companion along the way, my five short lessons are a good place to start.
 
@@ -249,7 +278,7 @@ My first baby was born in a hospital, the way most of us are told it should go. 
 
 1. You get to choose where you give birth
 
-In the US you can plan a birth at home with a midwife, in a birth center or in a hospital. ACOG, the professional organization of US obstetricians, says clearly that you have the right to choose, after learning the benefits and risks of each. Read the overview of your birth options.
+In the US you can plan a birth at home with a midwife, in a birth center or in a hospital. The American College of Nurse-Midwives says you have the right to take part in deciding where you give birth, with clear information about the benefits and risks of each setting. Read the overview of your birth options.
 
 2. Midwives aren't only for home births
 
@@ -273,6 +302,8 @@ What's your transfer plan, and which hospital do you use?
 How long are prenatal visits, and how often will we meet?
 What does it cost, and will you help me check my insurance?
 
+Wondering if it's too late to change? Read when to decide where to give birth, and how to switch.
+
 6. Your feelings matter to your body
 
 Feeling calm and loved isn't a luxury in labor. It helps the hormones of birth do their work. So the question of where to give birth isn't only a medical one. It's also a question of where your body can relax enough to do what it was made to do.
@@ -281,9 +312,79 @@ Feeling calm and loved isn't a luxury in labor. It helps the hormones of birth d
 
 Born in the Nest has five short lessons you can read right here, and a weekly letter every Sunday, matched to your due month, all the way to the day you meet your baby. You can also read the FAQ for quick answers.
 
-Sources ACOG, Planned Home Birth FAQ · ACNM credential comparison (2026) · Buckley 2015
+Sources ACNM, Position Statement: Planned Home Birth (updated Dec 2025) · ACNM credential comparison (2026) · Buckley 2015
 
 With love from my nest to yours,Sybille 🤍
+
+
+---
+
+## Touring a birth center: what to ask and what accreditation means
+URL: https://borninthenest.com/articles/birth-center-tour-questions.html
+What to ask on a birth center tour: who will care for you, accreditation and licensing, hospital transfer, how long you stay, and what the price includes.
+
+Answers
+🏡What should I ask on a birth center tour?
+
+The short answer: Ask who will care for you, whether the center is accredited and licensed, what happens if you need a hospital, how long families stay after the birth, and what the price includes. Then notice how the place and the people make you feel.
+
+By Sybille Mom of two · first birth in a hospital, second at home · Education only, not medical advice
+
+Reviewed Nov 2, 2026 · Next review: November 2027
+
+A birth center tour is your chance to see the rooms, meet the people and ask anything you want. Here is what's worth asking, in plain words.
+
+What is a birth center?
+
+The American Association of Birth Centers (AABC) describes a birth center as a freestanding, homelike facility designed in the midwifery and wellness model of pregnancy and birth, offering personalized, family-centered care for healthy women before, during and after a normal pregnancy, labor and birth. The Commission for the Accreditation of Birth Centers (CABC) adds that a freestanding birth center is not a hospital, and that birth centers are an integrated part of the health care system.
+
+Who will care for me?
+
+Ask which midwives attend births at the center, whether you'll get to know them during your pregnancy, and who else is on the team. AABC notes that birth center teams include certified nurse-midwives and certified professional midwives, so ask which credential each midwife holds. Here's what those letters mean.
+
+Is the center accredited and licensed?
+
+CABC accredits birth centers in the US. Its website lets you search for accredited centers and explains how to report a complaint about a center. Ask the center whether it's accredited, and whether it's licensed in your state. If it isn't accredited, ask why, and which standards it follows instead.
+
+What happens if I need a hospital?
+
+Ask which hospital the center works with, how you would get there, who would come with you, and how you and the midwives would decide together when it's time to go. A good center answers this clearly and without hesitation. Read more about what a transfer usually looks like.
+
+How long will I stay after the birth?
+
+Ask how long families usually stay after the birth, what the midwives check on you and your baby before you go home, and whether anyone visits you at home or calls you in the days after. Every center does this a little differently, so it's worth hearing it from them.
+
+What does it cost, and what's included?
+
+Ask for the price in writing and what it covers: prenatal visits, the birth, postpartum visits and care for your baby. Ask whether the center works with your insurance, and how billing works if you transfer to a hospital. Here's more on what a home birth or birth center costs and checking your insurance.
+
+How does it feel?
+
+This part matters as much as the answers. Notice how you feel in the rooms and with the people. Do you feel calm? Heard? A report on the hormones of birth from the National Partnership for Women & Families explains that stress hormones may slow labor when a mother doesn't feel private, calm and undisturbed. So how a place feels to you is worth noticing.
+
+I toured three different places, maybe four. I wanted to feel each place's energy, and whether I would feel comfortable and at ease there. A space is just a space. One I really liked was all modern and nice, but the people there didn't make it special. My midwife's birth center wasn't the most modern space, but I felt so loved and welcomed there, and that's why I chose it.
+
+Whatever you choose, talk it through with an experienced midwife and your care provider. They know you and your pregnancy, and they can help you decide.
+
+Questions moms ask
+
+What is an alongside midwifery unit?
+CABC describes it as a midwifery-led, homelike unit located inside a hospital but separate from the labor and delivery unit, designed for women with a low-risk pregnancy who expect a normal labor and birth.
+Who can give birth at a birth center?
+AABC describes birth center care as care for healthy women with a normal pregnancy, labor and birth. Each center decides who it can care for, so ask about your own pregnancy.
+Can my family come to the birth center?
+CABC says that at a birth center, the parent's family, as they define it, is welcome to take part in the pregnancy, birth and postpartum period. Ask each center about its own guidelines.
+
+Keep reading
+
+Day 2What birth looks like when no one's in a hurry›🪺More answers›
+
+Sources AABC, What is a Birth Center (accessed Nov 2, 2026) · CABC, Commission for the Accreditation of Birth Centers (accessed Nov 2, 2026) · Buckley, Hormonal Physiology of Childbearing (National Partnership for Women & Families, Jan 2015)
+
+With love from my nest to yours,Sybille 🤍
+
+Know someone who's expecting? Send her this. 💛
+Copy linkEmailWhatsApp
 
 
 ---
@@ -331,6 +432,8 @@ Who would care for me, and can I meet them before labor?
 At a birth center: which hospital do you work with, and how would we get there if plans change?
 At a hospital: can I move around, eat, use a tub and keep the lights low?
 What does my insurance cover at each?
+
+Planning a visit? Here's what to ask on a birth center tour.
 
 Many moms also consider a third option, a home birth.
 
@@ -405,7 +508,7 @@ What would I pay for labs, ultrasounds and the newborn's care?
 If my plans change and I go to the hospital, what would that cost?
 Do I need prior approval for any of this?
 
-Write down the date, the name of the person you spoke with and what they said. Future you will be so grateful.
+Write down the date, the name of the person you spoke with and what they said. Many plans don't cover home birth, but it's worth a quick call to ask. Then you can focus on the exciting part: meeting your baby.
 
 If insurance won't pay
 
@@ -447,9 +550,11 @@ How to find a home birth midwife near you: the directories to search, how to che
 Answers
 🧭How do I find a home birth midwife near me?
 
-The short answer: Start with the directories: ACNM's Find a Midwife for certified nurse-midwives, NARM to check a certified professional midwife's credential, and AABC for birth centers. Ask friends and local moms' groups too. Then book a no-cost consultation with one or two midwives and notice how you feel with each one.
+The short answer: Start with the directories: ACNM's Find a Midwife for certified nurse-midwives, NARM to check a certified professional midwife's credential, and AABC for birth centers. Ask friends and local moms' groups too. Then book a consultation with one or two midwives and notice how you feel with each one.
 
 By Sybille Mom of two · first birth in a hospital, second at home · Education only, not medical advice
+
+Reviewed Nov 2, 2026 · Next review: November 2027
 
 Finding my midwives changed everything for me. They felt a little like superheroes. They paid attention to everything: what I was eating, how I was sleeping, how I was really feeling. Often they seemed to understand what I needed just by looking at me, before I said a word.
 
@@ -475,26 +580,38 @@ You can usually look up a license through your state's licensing board.
 
 None of this has to feel complicated. Just ask every midwife: Which credential do you hold, and are you licensed in this state?
 
+What the letters after her name mean
+
+CNM, CM and CPM are three different national midwifery credentials. The American College of Nurse-Midwives (ACNM) explains the differences like this:
+
+Certified nurse-midwife (CNM): a registered nurse with a graduate degree in midwifery, certified by the American Midwifery Certification Board (AMCB). CNMs can attend births in every setting: hospitals, homes, birth centers and offices. Most attend births in hospitals.
+Certified midwife (CM): the same graduate midwifery education and the same AMCB certification, without being a nurse first. CMs can practice in only some states, so ask.
+Certified professional midwife (CPM): certified by the North American Registry of Midwives (NARM). Certification is based on demonstrated knowledge and skills, earned through an accredited midwifery program or NARM's apprenticeship-based portfolio process. CPMs attend births in homes and birth centers, not in hospitals.
+
+Licensing and insurance coverage are different for each credential and depend on your state. So the right fit often comes down to where you want to give birth and what your state allows. If you're weighing a birth center, here's what to ask on a birth center tour.
+
 Step 4: Book a consultation or two
 
-Most midwives offer a no-cost consultation. Bring your partner and your questions. Here's my list of questions to ask a home birth midwife.
+Most midwives offer a consultation. Bring your partner and your questions. Here's my list of questions to ask a home birth midwife.
 
 Step 5: Notice how you feel
 
-This part is easy to skip and so important. After you talk, sit quietly for a minute. Do you feel calm? Heard? A little bit loved? As my midwife always said, pregnant women need to feel loved. When I was pregnant, just a message from one of my midwives could calm me down and make my whole day feel lighter.
+This part is easy to skip and so important. After you talk, sit quietly for a minute. Do you feel calm, heard, and loved? That's how you should feel. As my midwife always said, pregnant women need to feel loved. When I was pregnant, just a message from one of my midwives could calm me down and make my whole day feel lighter.
 
 Whatever you choose, talk it through with an experienced midwife and your care provider. They know you and your pregnancy, and they can help you decide.
 
 Questions moms ask
 
 When should I start looking for a midwife?
-Early in pregnancy is a good time, because popular midwives can book up for certain months. But it's rarely too late to ask. Some midwives welcome moms who switch later in pregnancy.
+Early in pregnancy is a good time, because popular midwives can book up for certain months. But it's rarely too late to ask. Some midwives welcome moms who switch later in pregnancy. Here's more on when to decide and how to switch.
 How far away can my midwife live?
 Ask her. Many midwives only serve certain counties or areas, and she'll talk with you about her travel time to your home.
 What's the difference between a CNM and a CPM?
 A CNM is a nurse with graduate midwifery education, licensed in every state. A CPM specializes in birth at home and in birth centers and is certified by NARM. Licensing for CPMs depends on your state.
 Can I switch midwives during pregnancy?
 Yes. If something doesn't feel right, you can look for someone else, even later in pregnancy. Just ask the new midwife what's possible.
+What's a certified midwife (CM)?
+A CM has the same graduate midwifery education and certification as a certified nurse-midwife, without being a nurse first. CMs can practice in only some states.
 How many midwives should I interview?
 One or two is plenty for most women. Compare how each one answers your questions and how you feel with her.
 
@@ -573,7 +690,7 @@ Keep reading
 
 Day 2What birth looks like when no one's in a hurry›🪺More answers›
 
-Sources CDC/NCHS final birth data for 2024 (Natality User Guide) · AABC, What is a birth center? · AABC, Find a Birth Center · ACOG, Planned Home Birth FAQ
+Sources CDC/NCHS final birth data for 2024 (Natality User Guide) · AABC, What is a birth center? · AABC, Find a Birth Center · ACNM, Position Statement: Planned Home Birth (updated Dec 2025)
 
 With love from my nest to yours,Sybille 🤍
 
@@ -600,7 +717,7 @@ Here's what I've learned: feeling calm isn't only about candles and quiet. It's 
 
 The plan starts at your very first visit
 
-A good home birth midwife talks about the hospital long before labor: which one, how long it takes to get there, how you'd travel, and what would make her recommend going. ACOG, the organization of US obstetricians, encourages women planning a home birth to have their provider make transfer arrangements with a nearby hospital before labor begins, and to have a quick, reliable way to get there. The American College of Nurse-Midwives describes planned home birth as part of a supportive, connected system, with a clear way to transfer to the hospital if it's needed.
+A good home birth midwife talks about the hospital long before labor: which one, how long it takes to get there, how you'd travel, and what would make her recommend going. The American College of Nurse-Midwives says that choosing where to give birth includes a clear plan for getting to the hospital, if it's ever needed. It describes planned home birth as part of a supportive, connected system, where everyone works together if a transfer becomes necessary.
 
 So a transfer isn't an improvised moment. It's a plan you made together, sitting on your sofa, months earlier.
 
@@ -667,7 +784,7 @@ Keep reading
 
 Day 4My midwives saw what I needed before I said a word›🪺More answers›
 
-Sources ACOG, Planned Home Birth FAQ · ACNM, Position Statement: Planned Home Birth (2025)
+Sources ACNM, Position Statement: Planned Home Birth (updated Dec 2025)
 
 With love from my nest to yours,Sybille 🤍
 
@@ -694,7 +811,7 @@ But I can tell you this. No one told me I had another option until my second pre
 
 Yes, it's a real option
 
-A planned home birth is a recognized choice in the US. ACOG, the organization of US obstetricians, says you have the right to choose where you give birth, and encourages you to learn about each option first. Every year, families all over the US give birth at home (CDC birth data). Some of them are having their first baby, and those moms asked the very same question you're asking now.
+A planned home birth is a recognized choice in the US. The American College of Nurse-Midwives says you have the right to take part in deciding where you give birth, with clear information about each setting. Every year, families all over the US give birth at home (CDC birth data). Some of them are having their first baby, and those moms asked the very same question you're asking now.
 
 Whether it's right for you is a different question, and it's a personal one. It depends on your health, your pregnancy, where you live and what feels right in your heart.
 
@@ -710,8 +827,8 @@ My confidence didn't come all at once. At the start of my second pregnancy, I di
 
 If I were a first-time mom thinking about home birth, I'd start in the same place:
 
-Meet one or two midwives early. Many offer a no-cost consultation. Here are the questions I'd ask. If you don't know where to look yet, here's how to find a home birth midwife.
-Learn how birth really works. A good childbirth class, a few calm books and some hypnobirthing practice can turn the scary movie version into something you understand. And if birth feels scary right now, you are not alone.
+Meet one or two midwives early. Many offer a consultation. Here are the questions I'd ask. If you don't know where to look yet, here's how to find a home birth midwife.
+Learn how birth really works. A good childbirth class, a few calm books and some hypnobirthing practice can help you learn how birth really works, not the movie version. Labor comes in waves, and between contractions you get real breaks to rest and breathe. Nature doesn't want you to suffer. Your body knows how to do this. And if birth feels scary right now, you are not alone.
 Bring your partner along. It's their first birth too, and they'll feel calmer if they know the plan.
 Make a plan for every path. Ask your midwife what happens if you need to go to the hospital, so that part feels known instead of scary.
 
@@ -738,7 +855,7 @@ Keep reading
 
 Day 3My two births, and what changed›🪺More answers›
 
-Sources ACOG, Planned Home Birth FAQ · CDC/NCHS final birth data for 2024 (Natality User Guide) · AABC, What is a birth center?
+Sources ACNM, Position Statement: Planned Home Birth (updated Dec 2025) · CDC/NCHS final birth data for 2024 (Natality User Guide) · AABC, What is a birth center?
 
 With love from my nest to yours,Sybille 🤍
 
@@ -898,7 +1015,83 @@ Keep reading
 
 Day 1Where would you feel calmest giving birth?›🪺More answers›
 
-Sources ACOG, Planned Home Birth FAQ
+Sources ACNM, Position Statement: Planned Home Birth (updated Dec 2025)
+
+With love from my nest to yours,Sybille 🤍
+
+Know someone who's expecting? Send her this. 💛
+Copy linkEmailWhatsApp
+
+
+---
+
+## When your partner is worried about home birth
+URL: https://borninthenest.com/articles/partner-worried-about-home-birth.html
+When your partner is worried about a home birth: why the worry makes sense, meeting the midwife together, hearing the transfer plan, and taking your time.
+
+Answers
+🤝My partner is worried about a home birth. What can help?
+
+The short answer: Take the worry seriously and bring your partner into the decision. Meet the midwife together, ask her to walk you both through her transfer plan, and give it time. You don't have to settle it in one conversation.
+
+By Sybille Mom of two · first birth in a hospital, second at home · Education only, not medical advice
+
+Reviewed Nov 2, 2026 · Next review: November 2027
+
+If your partner is worried about a home birth, that isn't a bad sign. Often it means they care about you and the baby, and they want to know there's a plan. My first baby was born in a hospital, and no one told me I had other options until my second pregnancy. So a partner who hesitates isn't being difficult. They may simply be hearing something new.
+
+My partner was definitely worried. For him, the hospital was the only option and everything he had ever known, and he felt I would probably get the best care there. I kept reassuring him that this was what I wanted and that it was the right path.
+
+Then he came to every monthly visit and met the midwives, and he felt more confident in the process than ever. He saw how much care they put into me and the baby. What I saw at the hospital was different: some quick questions about the baby and an offer of vaccines, and no questions about my nutrition, my sleep or my bowel movements. That convinced him it was the right path.
+
+What partners often worry about
+
+Often they're the same questions you had: What if something goes wrong? Who is in charge? How quickly can we get to a hospital? What am I supposed to do? These are good questions, and a good home birth midwife expects to answer every one of them.
+
+Meet the midwife together
+
+Bring your partner to the consultation and let them ask their own questions, even the ones that feel awkward. Then notice how she answers: calmly, directly, without brushing anything off.
+
+For me, it came down to a gut feeling about my midwife, and how loved and cared for she and her team made me feel. Trusting your gut is something you may have to learn again. It's a skill many of us don't practice much. Your partner deserves the chance to get their own feeling about her, too. Here's my list of questions to ask a home birth midwife.
+
+Ask for the transfer plan, out loud
+
+The American College of Nurse-Midwives describes planned home birth as care from a qualified provider, such as a certified nurse-midwife, with a clear plan for getting to the hospital if it's needed. Ask your midwife to explain her plan to both of you: which hospital, how you would get there, and what would make her recommend going.
+
+Your midwife watches closely and will tell you if it's time to go, and you make that call with her. That can be a relief for a partner, because they don't have to judge the moment alone. I trusted that my midwives would know if I needed to transfer, so I didn't have to worry about it. Read more about what happens if you need to go to the hospital and what a home birth midwife brings.
+
+Give your partner a real role
+
+Knowing what to do can help a partner feel calmer. Ask your midwife what she would like your partner to help with during labor and after the birth, and practice breathing and comfort ideas together during pregnancy.
+
+During my second birth, as the contractions got stronger, a moment of fear showed up ("I'm not a marathon runner!"), and my husband said, "You totally are. You trained for this." That was all I needed.
+
+What helped my partner most was hearing the transfer plan, and hearing the midwives talk it through. The midwives told me they attend births at homes and birth centers regularly, and they told me they don't often have a reason to send a mom to the hospital. That's it.
+
+Give it time
+
+You don't have to decide in one conversation. Sit on it. Take it home, breathe into it and let it settle. If something feels off, for either of you, pause, write it down and ask more questions.
+
+Confidence can grow over a pregnancy. Mine wasn't there at the start. It grew with my visits with my midwives, my own reading and my hypnobirthing practice.
+
+And if the two of you decide together that a birth center or a hospital fits better, that's a good outcome too. What matters is that you both feel calm about where your baby is born.
+
+Whatever you choose, talk it through with an experienced midwife and your care provider. They know you and your pregnancy, and they can help you decide.
+
+Questions moms ask
+
+What if my partner still doesn't want a home birth?
+Keep talking, and keep asking questions together. For some couples a birth center feels like a middle path. You can also ask your midwife whether your partner can bring their questions to her directly.
+Should my partner come to prenatal visits?
+If they can, yes. Getting to know the midwife and her team often makes the plan feel real and much less scary.
+Is it normal for partners to be scared of the birth itself?
+Yes. Birth is big for partners too. Talking about it openly, and knowing what their role will be, can help.
+
+Keep reading
+
+Day 4My midwives saw what I needed before I said a word›🪺More answers›
+
+Sources ACNM, Position Statement: Planned Home Birth (updated Dec 2025)
 
 With love from my nest to yours,Sybille 🤍
 
@@ -923,7 +1116,7 @@ In my first pregnancy, I hardly asked anything. Fear guided my whole pregnancy, 
 
 By my second pregnancy, I'd learned to ask. Big questions, small questions, and one I'd never have dared to say out loud before: what does labor actually feel like when I'm not numb? Every answer made me feel a little calmer.
 
-So here's the list I wish I'd had the first time. You don't need to ask every question. Pick the ones that make your heart beat a little faster, and bring them to a no-cost consultation. Many midwives offer one.
+So here's the list I wish I'd had the first time. You don't need to ask every question. Pick the ones that make your heart beat a little faster, and bring them to a consultation. Many midwives offer one.
 
 First, a tiny bit of homework
 
@@ -964,7 +1157,7 @@ What she brings
 
 What equipment and medicines do you bring to a home birth?
 
-A typical kit includes a handheld device to listen to your baby's heartbeat, a blood pressure cuff, oxygen, equipment to help a baby breathe if needed and medicine to help with bleeding. What's included depends on her training and your state's rules, so it's a great thing to ask about.
+She typically brings a handheld device to listen to your baby's heartbeat, a blood pressure cuff, oxygen, equipment to help a baby breathe if needed and medicine to help with bleeding. What's included depends on her training and your state's rules, so it's a great thing to ask about.
 
 If plans change
 
@@ -993,7 +1186,7 @@ Every practice packages things differently. For example, one midwife's practice 
 
 The question no list can answer
 
-After the call, sit quietly for a minute and notice how you feel. Calm? Heard? A little bit loved? My midwives felt like superheroes to me. They paid attention to everything, and often understood what I needed before I said a word. As my midwife always said, pregnant women need to feel loved. If your gut says yes, that matters.
+After the call, sit quietly for a minute and notice how you feel. Calm, heard, and loved? That's how you should feel. My midwives felt like superheroes to me. They paid attention to everything, and often understood what I needed before I said a word. As my midwife always said, pregnant women need to feel loved. If your gut says yes, that matters.
 
 And one last question for her: Do I have to decide right now? A good midwife will smile and give you time.
 
@@ -1002,7 +1195,7 @@ Whatever you choose, talk it through with an experienced midwife and your care p
 Questions moms ask
 
 How many midwives should I interview?
-One or two is plenty for most women. Many midwives offer a no-cost consultation, so you can compare how each one answers your questions and how you feel with her.
+One or two is plenty for most women. Many midwives offer a consultation, so you can compare how each one answers your questions and how you feel with her.
 When should I start looking for a home birth midwife?
 Many women start looking early in pregnancy, but it's rarely too late to ask. Some practices welcome women who switch later in pregnancy, so just call and ask what's possible.
 What's the difference between a CNM and a CPM?
@@ -1016,7 +1209,7 @@ Keep reading
 
 Day 5The question no one asked me before my first birth›🪺More answers›
 
-Sources ACNM, Comparison of CNMs, CMs and CPMs (2026) · NARM · AABC, Find a Birth Center · ACOG, Planned Home Birth FAQ
+Sources ACNM, Comparison of CNMs, CMs and CPMs (2026) · NARM · AABC, Find a Birth Center · ACNM, Position Statement: Planned Home Birth (updated Dec 2025)
 
 With love from my nest to yours,Sybille 🤍
 
@@ -1026,14 +1219,96 @@ Copy linkEmailWhatsApp
 
 ---
 
-## What does a home birth midwife bring? Her kit, explained
+## How to tell your family you're planning a home birth
+URL: https://borninthenest.com/articles/telling-family-about-home-birth.html
+Telling family about a home birth: why it's okay to wait until after, what to share if you do, answering a worried reaction, and older children at the birth.
+
+Answers
+💬How do I tell my family I'm planning a home birth?
+
+The short answer: You don't have to tell anyone before the birth. I didn't, and that was okay. If you do share, tell them about the plan, not just the place: who your midwife is and that she has a transfer plan with a hospital. Listen to their worry, and remember you don't owe anyone a debate.
+
+By Sybille Mom of two · first birth in a hospital, second at home · Education only, not medical advice
+
+Reviewed Nov 2, 2026 · Next review: November 2027
+
+Telling your family can feel harder than making the decision. Here's what I did: I didn't tell anybody about my home birth until after the fact.
+
+It's okay not to tell anyone until after
+
+I didn't want the worry on me. In my experience, if your friends or family probably won't support it, mentioning it doesn't help. They may just worry, and that worry can pull you into a negative space. So I told nobody until after the birth, and it was wonderful.
+
+That's what felt right for me. It's okay if it feels right for you too, and it's also okay to share. You don't owe anyone your birth plans. Pregnancy brings many decisions, and you don't have to make them in the moment. Sit on it, and share when you're ready, whether that's early, after you've met your midwife, or after your baby is here.
+
+Telling people after the birth
+
+If you wait, you get to share the news in your own words, with your baby already in your arms.
+
+The reactions were crazy. People were worried at first, but then I told them the story, and they couldn't believe how amazing it was. They also couldn't believe that I just stayed in my own bed after I gave birth and ate my own food, and that my midwives came the next morning to check on me, instead of me having to put the baby in the car and go to a doctor. Everything happened in my house, which was the best part.
+
+If you do tell them: share the plan, not just the place
+
+"Home birth" on its own can sound like "no plan." What often helps is describing the care around it: who your midwife is and which credential she holds, how often you see her, what she brings to the birth, and that she has a plan with a nearby hospital in case you need to go. The American College of Nurse-Midwives describes planned home birth in just these terms: a qualified provider, and a clear plan for getting to the hospital if it's needed.
+
+If they want to read more, you can point them to what happens if you need to go to the hospital, what a home birth midwife brings or the birth options guide.
+
+When someone reacts with fear
+
+Some people have never known anyone who planned a home birth, so the first reaction might be surprise or fear. That reaction often comes from what they know, not from anything about you.
+
+Listen first. Then answer the question underneath, which is often some version of "what if something goes wrong?" You can explain that your midwife watches closely, that she will tell you if it's time to go and you make that call with her, and that hospitals are there when more help is needed.
+
+You can also set a boundary. It's your pregnancy and your birth. It's okay to tell people kindly that you've made your choice with your midwife and that what you need from them now is support, not a debate.
+
+Protect your calm
+
+Feeling calm isn't a luxury in labor. A report on the hormones of birth from the National Partnership for Women & Families explains that stress hormones may slow labor when a mother doesn't feel private, calm and undisturbed. So lean on the people who make you feel loved and cared for, and give yourself permission to keep some conversations short, or to skip them for now.
+
+If a worried relative has also scared you, write the worry down and bring it to your next visit. Your midwife can answer it for you, and you don't have to carry it alone.
+
+Will older children be at the birth?
+
+Some families want older children at home during the birth. Others arrange for someone to look after them, at home or somewhere else. There's no single right answer. Talk it through with your midwife, and ask what she suggests for your family and your space.
+
+If your children will be at home, it helps to have one trusted adult whose only job is to look after them, so your partner can stay with you.
+
+At my home birth, my older child was there until bedtime. I wanted her there so she could see how amazing a birth is and that it's nothing to be afraid of. I wanted it to empower her. It's a very personal decision, but I'd encourage every mom to have her children there if they want to be, and to explain beforehand what the birth will look like. I told my child that mommy would do a lot of breathing, be very quiet and sometimes really loud.
+
+I brought her to every checkup, and the midwives even let her check the baby's heartbeat. They involved her in every step, which I think is the best thing. She truly wanted to be there, until it was time to sleep.
+
+Whatever you choose, talk it through with an experienced midwife and your care provider. They know you and your pregnancy, and they can help you decide.
+
+Questions moms ask
+
+Do I have to tell my family I'm planning a home birth?
+No. I didn't tell anyone until after the birth, and for me that was okay. It's your choice whether, when and how much to share.
+What if my mom is against home birth?
+Listen to her worry, tell her about the plan and the transfer arrangements, and, if you're comfortable, invite her to bring her questions to your midwife. Then let it rest. You don't have to win the conversation.
+Can older children be at a home birth?
+That's a family decision to make with your midwife. If they will be there, plan for a trusted adult to look after them.
+
+Keep reading
+
+Day 3My two births, and what changed›🪺More answers›
+
+Sources ACNM, Position Statement: Planned Home Birth (updated Dec 2025) · Buckley, Hormonal Physiology of Childbearing (National Partnership for Women & Families, Jan 2015)
+
+With love from my nest to yours,Sybille 🤍
+
+Know someone who's expecting? Send her this. 💛
+Copy linkEmailWhatsApp
+
+
+---
+
+## What does a home birth midwife bring?
 URL: https://borninthenest.com/articles/what-does-a-home-birth-midwife-bring.html
-What a home birth midwife usually brings to your birth: the equipment, the supplies, the second midwife, and the questions to ask about her kit.
+What a home birth midwife usually brings to your birth: the equipment, the supplies, the second midwife, and the questions to ask about what she brings.
 
 Answers
 🧺What does a home birth midwife bring?
 
-The short answer: Midwives come prepared. A typical kit includes a handheld device to listen to your baby's heartbeat, a blood pressure cuff, oxygen, equipment to help a baby breathe if needed, medicine to help with bleeding, and supplies for you and your newborn. Many also bring a birth pool. What's included depends on her training and your state's rules, so ask.
+The short answer: Midwives come prepared. She typically brings a handheld device to listen to your baby's heartbeat, a blood pressure cuff, oxygen, equipment to help a baby breathe if needed, medicine to help with bleeding, and supplies for you and your newborn. Many also bring a birth pool. What's included depends on her training and your state's rules, so ask.
 
 By Sybille Mom of two · first birth in a hospital, second at home · Education only, not medical advice
 
@@ -1041,9 +1316,9 @@ When I tell people I had my second baby at home, one of the first questions is: 
 
 Midwives come prepared. Here's what a home birth midwife usually brings, and what you might gather yourself.
 
-Her kit
+What she brings
 
-A typical kit includes:
+She typically brings:
 
 A handheld device to listen to your baby's heartbeat during labor
 A blood pressure cuff and other tools to check on you
@@ -1070,7 +1345,7 @@ What I remember most
 
 Honestly? Not the equipment. I remember how my midwives paid attention to everything. Often they seemed to understand what I needed just by looking at me, before I said a word.
 
-Whatever you choose, talk it through with an experienced midwife and your care provider. Ask her to show you her kit. Most midwives are happy to.
+Whatever you choose, talk it through with an experienced midwife and your care provider. Ask your midwife what she brings to your birth. Most midwives are happy to walk you through it. Ask if she can set up a birth pool in your home, too. Mine brought an inflatable pool, and I thought it was so cool.
 
 Questions moms ask
 
@@ -1089,7 +1364,75 @@ Keep reading
 
 Day 2What birth looks like when no one's in a hurry›🪺More answers›
 
-Sources ACOG, Planned Home Birth FAQ
+Sources ACNM, Position Statement: Planned Home Birth (updated Dec 2025)
+
+With love from my nest to yours,Sybille 🤍
+
+Know someone who's expecting? Send her this. 💛
+Copy linkEmailWhatsApp
+
+
+---
+
+## When to decide where to give birth, and can you switch?
+URL: https://borninthenest.com/articles/when-to-decide-where-to-give-birth.html
+When to decide between a home birth, a birth center or a hospital, whether it's too late to switch to a midwife, and how to change providers during pregnancy.
+
+Answers
+🗓️When do I need to decide where to give birth? Can I switch?
+
+The short answer: Starting early gives you the most choice, because some midwives and birth centers book up. But it's rarely too late to ask. You can switch providers during pregnancy, and some midwives welcome moms who come to them later. Call, ask what's possible, and trust your gut.
+
+By Sybille Mom of two · first birth in a hospital, second at home · Education only, not medical advice
+
+Reviewed Nov 2, 2026 · Next review: November 2027
+
+Before my first baby, no one asked me the most important question: where do you want to give birth? I didn't even know it was a choice. No one told me I had other options until my second pregnancy. So if you're reading this in the middle of your pregnancy and wondering whether you've missed your chance, you probably haven't.
+
+When should I start looking?
+
+I didn't start looking for my midwife until after my first trimester, and when I met her I just had that gut feeling she was the right one.
+
+Starting early in pregnancy gives you the most options, because popular midwives and birth centers can book up for certain months. But early isn't a deadline. If you're further along, call and ask what's possible. Here's how to find a home birth midwife.
+
+Can I switch to a midwife later in pregnancy?
+
+Often, yes. Some midwives welcome moms who switch later in pregnancy. Each midwife and birth center has its own rules about when they can still take someone new, and your health and your pregnancy matter too, so ask directly.
+
+If you switch, ask your current provider for a copy of your records, so your new midwife has your full history from the start.
+
+Can I switch from a midwife to a hospital, or back?
+
+Yes. Plans can change, and that's okay. Sometimes it's because of your health or your baby's. Sometimes you simply feel differently than you did a few months ago. The American College of Nurse-Midwives says you have the right to take part in deciding where you give birth, so talk your options through with your midwife or doctor. Here's how a birth center compares with a hospital.
+
+How do I know it's time to change?
+
+Notice how you feel after your visits. Do you feel heard? Calm? Would you keep visiting her like a friend? If something feels off, even if you can't put it into words yet, pause, write it down and ask questions. We live in a modern world with ancient instincts, so listen to yours.
+
+My second pregnancy is when I found my midwife, and I just trusted my gut. She and her team made me feel so loved and cared for. Trusting your gut is something you may have to learn again. It's a skill many of us don't practice much.
+
+You don't have to decide everything at once
+
+You can choose who cares for you first and keep learning about the rest. You don't have to decide in the moment. Sit on it, breathe into it and let it settle. My own confidence wasn't there at the start. It grew over my pregnancy, with my midwives, my own reading and hypnobirthing.
+
+If you're weighing a birth center, here's what to ask on a birth center tour. And if this is your first baby, the first-time mom guide covers the choices no one mentions.
+
+Whatever you choose, talk it through with an experienced midwife and your care provider. They know you and your pregnancy, and they can help you decide.
+
+Questions moms ask
+
+Is it too late to switch to a midwife near the end of pregnancy?
+It's rarely too late to ask. Some midwives can still take you late in pregnancy and some can't, so call and ask what's possible for you.
+Do I have to decide where to give birth before my first prenatal visit?
+No. You can start care, ask questions and decide as you learn. Starting the search early simply gives you more choice.
+Can I change my mind after choosing a birth center or a home birth?
+Yes. It's your pregnancy and your birth. Talk with your midwife or doctor about what changing would look like.
+
+Keep reading
+
+Day 5The question no one asked me before my first birth›🪺More answers›
+
+Sources ACNM, Position Statement: Planned Home Birth (updated Dec 2025)
 
 With love from my nest to yours,Sybille 🤍
 
@@ -1109,9 +1452,9 @@ One question to start with, and what my own answer looked like.
 
 Home birth, explained by a mom who's done it. That's what these five short lessons are, right here on the site, no signup needed.
 
-In the movies, birth is a woman screaming in pain while everyone rushes around her. Most of us have watched that scene a hundred times, and somewhere along the way we started believing it.
+Fear of birth is so common because we grew up believing birth is scary. It is not. We've been shown a movie version of birth, but labor really comes in waves, with real breaks to rest and breathe. Nature doesn't want you to suffer. Your body is amazing, and it knows how to do this.
 
-But what if birth doesn't have to be like that? Yes, there's intensity, and there can be pain. But pain and suffering aren't the same thing. Birth can be one of the most beautiful, powerful things you'll ever do. We've just been taught to see it through the wrong lens.
+Yes, there's intensity, and there can be pain. But pain and suffering aren't the same thing. Birth can be one of the most beautiful, powerful things you'll ever do. We've just been taught to see it through the wrong lens.
 
 I'm Sybille, a mom of two. My first baby was born in a hospital with an epidural. I was completely numb, and I felt helpless. My second was born at home, in my own bed, with a midwife I trusted, and that birth showed me how calm and beautiful giving birth can be. Same body, completely different birth. The biggest difference was where I was and how calm and loved I felt.
 
@@ -1159,9 +1502,7 @@ Lesson 2 of 5 · Home birth, explained by a mom who's done it
 🌿What birth looks like when no one's in a hurry
 Dim lights, warm water, a midwife who knows your name.
 
-When most of us picture birth, we picture TV: a woman on her back, someone shouting "push!", alarms beeping. It makes sense if that picture feels a little intense. But it's only one picture.
-
-A planned home birth usually looks very different. Here's a peek.
+When most of us picture birth, we picture the movie version. Labor really comes in waves, and between contractions you get real breaks to rest and breathe. Nature doesn't want you to suffer. A planned home birth usually looks very different. Here's a look.
 
 Months before: you'll have regular prenatal visits with your midwife, often an hour long, sometimes in your own living room. You'll talk about nutrition, how you're feeling, your fears, and your hopes. She checks your blood pressure, measures your belly, and listens to your baby's heartbeat. By the time labor starts, she isn't a stranger. She's someone you trust.
 
@@ -1175,7 +1516,7 @@ Who's there: usually your midwife plus a second trained midwife or assistant, yo
 
 (When my second child was born, my first child was there for the first part, just two years old and so proud to help her mama, until it was time for her to go to bed. 💛)
 
-What she brings: midwives come prepared. A typical kit includes a handheld device to listen to baby's heartbeat, a blood pressure cuff, oxygen, equipment to help a baby breathe if needed, medicine to help with bleeding, and supplies for you and your newborn. (What's included depends on her training and your state's rules, so it's a great thing to ask her.)
+What she brings: midwives come prepared. She typically brings a handheld device to listen to baby's heartbeat, a blood pressure cuff, oxygen, equipment to help a baby breathe if needed, medicine to help with bleeding, and supplies for you and your newborn. (What's included depends on her training and your state's rules, so it's a great thing to ask her.)
 
 What it feels like: usually quiet. Soft lights, maybe music, maybe a birth pool. Your midwife watches closely but calmly, often from the corner of the room, checking in without interrupting. Many women say what they remember most is feeling protected.
 
@@ -1199,7 +1540,7 @@ And if plans change? A good midwife has a transfer plan from the very first visi
 
 A question for you: what part of this picture made you exhale? Write to me at hello@borninthenest.com. I read every message.
 
-Sources ACOG, Planned Home Birth FAQ
+Sources ACNM, Position Statement: Planned Home Birth (updated Dec 2025)
 
 With love,Sybille 🤍
 
@@ -1221,29 +1562,19 @@ Today I want to share something personal: my two births. Every birth is differen
 
 My first baby: the hospital
 
-I was so excited to meet my first baby, and so scared to give birth. Fear guided my whole pregnancy, so I did what was recommended to me without asking many questions. I didn't know there was another way.
-
-I felt uneasy at every hospital check-up, and I wish I'd listened to that feeling sooner. I was induced early. My body wasn't ready, and labor was long, with lots of medication. When it was finally time to push, I had to hold her back until the doctor arrived at 2:30 am.
-
-It felt clinical, and not at all like the birth I'd hoped for. Then the drugs finally wore off, and I was overjoyed with love and the beauty of my baby girl.
-
-My first child is the reason I made different choices for her sister, and why I'm writing this to you.
+With my first baby, I was scared. I thought I had to give birth in a hospital, and I had no idea what to expect. My labor lasted nearly two and a half days. Along the way I felt miserable and lost, because I had no control over what my body wanted to do. And after I gave birth, I was drained, but they still wouldn't feed me, and they kept asking me questions instead of letting me rest.
 
 My second baby: at home
 
-The morning my second child was born felt completely ordinary: coffee, my weekly 45-minute walk, lunch, my daily stretches. When a little cramping started, I barely noticed. I was sure this baby would take at least two more weeks.
+My second birth was a completely different story. I found the most amazing midwives, and that changed everything. I felt truly loved and cared for by these women, and they made me feel so confident that my body was ready to do this. I read a couple of books, practiced hypnobirthing, and met with them every month. Their words, their calm and their expertise prepared me for my home birth, and it became the most beautiful thing I could ever imagine.
 
-In the afternoon I suddenly wanted a bath, after nine months of zero interest. (My midwives laughed later: that's their number one sign a woman is in labor.) Letting the warm water hold my belly felt amazing.
+On the day, I felt so calm and in control. It was so manageable that I told my midwife she didn't need to come over yet. Thankfully, she came anyway. At 8:30 she and another midwife were at my house, and an hour later my baby was here. It felt like five minutes.
 
-By dinner the "period cramps" made me pause now and then, but I was still laughing at my husband's jokes. I breathed through each wave the way I'd practiced for four months and told him, "We'll probably have a baby tomorrow."
+My contractions got stronger, and I moved between sitting and standing. Then the urge to push started, and I just let my body do it. You always get a break in between. The ring of fire was real, but it lasted only a few seconds. I breathed through it, and it didn't even matter, because seconds later my baby arrived. Her eyes were so wide open, looking around the room, so awake and so beautiful.
 
-My second baby had other plans. I felt so in control that I told my husband I was totally fine without the midwives (which is crazy, I know). But my midwife pushed back: "Nope, I'm coming over now." She knew better. By 8:30 she was with us, pressing my hips exactly where I needed it, while my hypnobirthing tracks played. As the contractions got stronger, a moment of fear came ("I'm not a marathon runner!"), and my husband said, "You totally are. You trained for this." That was all I needed. My body was made for this. I just had to let it.
+I held her in my arms and nursed her, and we waited until the cord stopped pulsing before it was cut. It felt so amazing. There was no rushing. Then I ate a massive meal and a banana, because I was really hungry. And then I got to sleep in my own bed, in my own house, with my own family. This was the golden hour I never got at the hospital. It was the most beautiful time of my life, and that's why I started Born in the Nest: so you can experience it too.
 
-I stood up, held on to the headboard, and let my body push. The ring of fire is real, but it lasted seconds. Then, swoosh, my second baby arrived, eyes wide open, looking around the room. So awake. So beautiful.
-
-She nursed in my arms for 45 minutes. I felt tired, hungry and so, so happy. There was intensity, yes, but I never felt like I was suffering, because every wave brought her closer to me. I felt in complete power the entire time.
-
-That's the birth story I'll be telling for the rest of my life.
+If you asked me today, "Do you want to give birth right now?" I'd say, "Yeah, sure." It was that manageable for me, because I felt so prepared. That's what I want for you too.
 
 What I'd tell my first-time self
 
@@ -1251,7 +1582,7 @@ If something feels off, even if you can't put it into words yet, pause. Write it
 
 I'm sharing this not to say a hospital is wrong. For some women and some pregnancies, it's exactly the right place, and I'm grateful it exists. I'm sharing it because no one told me I had another option until my second pregnancy. I want you to know sooner.
 
-More stories are coming. In the weekly Born in the Nest letter, I'll share calm, real stories from other mothers: home births, birth center births, and births where plans changed and still felt good. Never scary.
+More stories are coming. In the weekly Born in the Nest letter, I'll share calm, real stories from other mothers: home births, birth center births, and births where plans changed and still felt good. Stories that help you feel braver.
 
 Have a story to share? If you've given birth at home or in a birth center and would like to help another mom feel braver, just write to me at hello@borninthenest.com. I'll always ask your permission before sharing anything, and I can keep your name private.
 
@@ -1287,13 +1618,13 @@ Ask before you rule it out. That's my biggest wish for you here.
 
 In my first pregnancy, I was told at the hospital that I had high blood pressure. It turned out to be nerves: hospitals just made me nervous. That's simply my story, not medical advice, but it taught me to ask questions before deciding what was possible for me.
 
-So don't rule yourself out too fast. A breech baby or twins don't automatically take a home or birth-center birth off the table to talk about. Some experienced midwives can talk through your options with you, like trying to turn a breech baby before labor, which is called external cephalic version. I knew women at my birth center who had twins. To be honest with you, ACOG, the organization of US obstetricians, advises against planned home birth with twins, a baby who isn't head-down, or after a previous cesarean. So the message isn't "it's fine." It's "ask an experienced midwife or doctor about your options."
+So don't rule yourself out too fast. A breech baby or twins don't automatically take a home or birth-center birth off the table to talk about. Some experienced midwives can talk through your options with you, like trying to turn a breech baby before labor, which is called external cephalic version. I knew women at my birth center who had twins. To be honest with you, NICE, the UK's national guideline body, suggests planning birth in a hospital labor ward with twins, a breech baby, or after a previous cesarean. So the message isn't "it's fine." It's "ask an experienced midwife or doctor about your options."
 
 And some things really do change the plan. With conditions like diabetes that needs medication or preeclampsia, guidelines suggest giving birth where obstetric care is right there. The right person to help you decide is an experienced midwife or doctor who knows you.
 
 What a transfer usually looks like
 
-If plans change, it's usually because of a long, slow labor. If you do move, your midwife comes with you and shares your notes. If this is your first baby, it's worth talking through your plan early with your midwife.
+If plans change, a long, slow labor is one of the primary reasons for moving to a hospital listed by NICE, the UK's national guideline body. If you do move, your midwife comes with you and shares your notes. If this is your first baby, it's worth talking through your plan early with your midwife.
 
 Did you know? 🌿 No clock on the cord. You wait for your baby, not a schedule. Many home birth midwives wait to clamp the cord until it stops pulsing on its own. That's often a few minutes, sometimes much longer, with no clock to rush it. It's something to see. Wherever you give birth, you can ask about delayed cord clamping and add it to your birth plan.
 
@@ -1311,7 +1642,7 @@ None of this has to wait until the big day. My midwives helped me practice it fo
 
 Today's practice: breathe in for 4, out for 6, and let your jaw go loose. Do it for two minutes tonight before sleep. A tip someone once gave me that I still use, even now that I'm not pregnant: practice a few slow breaths every time you stop at a red traffic light while driving.
 
-Sources Cheyney et al. 2014, MANA Statistics Project · ACOG, Planned Home Birth FAQ · OpenStax, Hypnobirthing: The Mongan Method · ACOG, If Your Baby Is Breech · NICE NG235, Intrapartum care: planning place of birth
+Sources Cheyney et al. 2014, MANA Statistics Project · ACNM, Position Statement: Planned Home Birth (updated Dec 2025) · OpenStax, Hypnobirthing: The Mongan Method · NHS, What happens if your baby is breech? (reviewed Nov 2023) · NICE NG235, Intrapartum care: planning place of birth
 
 With love,Sybille 🤍
 
@@ -1344,7 +1675,7 @@ Your three options, simply
 Your first steps
 
 Find a midwife. You'll see two main types: CNMs (certified nurse-midwives, licensed in every state) and CPMs (certified professional midwives, who specialize in out-of-hospital birth; licensing varies by state). Try the ACNM, NARM, and American Association of Birth Centers directories.
-Book a no-cost consultation with one or two. Most offer one.
+Book a consultation with one or two. Most offer one.
 Ask these questions:How many births have you attended, and what's your training?
 How do you prepare women for birth?
 What nutrition and lifestyle advice do you give during pregnancy?
@@ -1362,7 +1693,7 @@ When you're ready to read more: Ina May's Guide to Childbirth and Spiritual Midw
 
 Short on time? I've got you. I'll be doing a deep dive into each of these books in my weekly letter, with the most important takeaways, in case you don't have time to read them all.
 
-Sources ACOG, Planned Home Birth FAQ · ACNM credential comparison (2026)
+Sources ACNM, Position Statement: Planned Home Birth (updated Dec 2025) · ACNM credential comparison (2026)
 
 With love from my nest to yours,Sybille 🤍
 
@@ -1389,18 +1720,11 @@ Every Sunday, I'll walk beside you through your pregnancy, the way my midwives w
   Due monthChoose your monthOctober 2026November 2026December 2026January 2027February 2027March 2027April 2027May 2027June 2027July 2027August 2027Not pregnant yet / just dreamingWhy just the month? Due dates usually start with a formula a doctor came up with in 1812. Your baby has never heard of it. 😄 Your month is all we need.
   Send me the weekly letter 💌
 
-No spam, unsubscribe anytime. Snacks encouraged. · The five lessons are below, no signup →
+No spam, unsubscribe anytime. Snacks encouraged. · The five short lessons are below, no signup →
 
-Popular questions
+Birth isn't the scary thing movies show. Your body knows how to do this.
 
-Short, plain answers to the questions moms ask most:
-- How do I find a home birth midwife near me?: https://borninthenest.com/articles/find-a-home-birth-midwife.html
-- Can I have a home birth with my first baby?: https://borninthenest.com/articles/home-birth-with-first-baby.html
-- Birth center vs hospital: what's the difference?: https://borninthenest.com/articles/birth-center-vs-hospital.html
-- How much does a home birth cost?: https://borninthenest.com/articles/how-much-does-a-home-birth-cost.html
-- All articles: https://borninthenest.com/articles/
-
-In the movies, birth is a woman screaming while everyone rushes around her. We've seen that scene so many times that most of us grow up believing it's what birth is. It isn't. Your body already knows how to give birth, and it does its best work where you feel calm and loved. I'm Sybille, a mom of two. My first baby was born in a hospital and my second at home, and the difference changed everything for me.
+I'm Sybille, a mom of two. My first baby was born in a hospital, my second at home.
 
 Five short lessons · no signup needed
 
@@ -1412,6 +1736,16 @@ Here's what I wish someone had shown me, in five short lessons you can read righ
 04Day 4My midwives saw what I needed before I said a word🌬️→
 05Day 5The question no one asked me before my first birth🌱→
 
+Answers
+
+Questions moms ask
+
+How do I find a home birth midwife near me? →
+Can I have a home birth with my first baby? →
+Birth center vs hospital: what's the difference? →
+How much does a home birth cost? →
+See all articles →
+
 Your options
 You have more choices than you think.
 
@@ -1422,24 +1756,26 @@ Get the weekly letter
 
 Home birth, honestly
 
-A few myths untangled.
+A few myths, untangled.
 
 MythHome birth is only for very, very crunchy people.
-FactIt's a recognized choice. ACOG, the organization of US obstetricians, says you have the right to choose where you give birth, and families all over the US choose it every year (CDC birth data).
+FactIt's a recognized choice. The American College of Nurse-Midwives says you have the right to take part in deciding where you give birth, and families all over the US choose it every year (CDC birth data).
 
 MythAt home, you're on your own if plans change.
-FactA planned home birth is made with a qualified midwife and a hospital transfer plan arranged before labor, as ACOG recommends. If plans change, it's usually because of a long, slow labor, and your midwife comes with you.
+FactA planned home birth is made with a qualified midwife and a clear plan for getting to the hospital if it's needed, as the American College of Nurse-Midwives describes. If plans change, a long, slow labor is one of the primary reasons for moving to a hospital listed by NICE, the UK's national guideline body. Your midwife comes with you.
 
 MythWithout a hospital, there's nothing for the pain.
 FactMany midwives bring a birth pool, so warm water is one comfort option at home. Some moms want stronger relief than home can offer, and that's okay too. And you don't have to walk in cold on the day. My midwives helped me prepare all through my pregnancy, the way an Olympian trains for a race. For me, that changed everything: it was pain, but not suffering.
 
-Why so many moms love it
+Why so many moms love giving birth at home
 
 Your own nest. Your bed, your people, your snacks, your playlist.
 
-A midwife who knows you. With continuity of midwife care, you see the same midwife, or the same small team, through pregnancy, birth and the weeks after.
+A midwife who knows you. You see the same midwife, or the same small team, through pregnancy, birth and the weeks after.
 
-Home birth is planned for healthy, low-risk pregnancies, and it isn't right for every pregnancy. ACOG recommends against it with twins, a baby who isn't head-down, or after a previous cesarean. But ask before you rule it out: an experienced midwife or doctor who knows you can help you find what fits. When a home birth might still be possible →
+Your body leads the way. Move how you want, eat when you're hungry, and rest in your own bed right after your baby arrives, with no one rushing you.
+
+Home birth is planned for healthy, low-risk pregnancies, and it isn't right for every pregnancy. NICE, the UK's national guideline body, suggests planning birth in a hospital labor ward with twins, a breech baby, or after a previous cesarean. But ask before you rule it out: an experienced midwife or doctor who knows you can help you find what fits. When a home birth might still be possible →
 
 Guides
 
@@ -1455,22 +1791,20 @@ Get the weekly letter
 Born in the Nest
 The birth story you'll want to tell.
 
-With my first baby, I had an epidural in the hospital. I was completely numb, and I felt helpless. I didn't know what I didn't know. I had no idea what labor really feels like, so I just assumed it was supposed to be scary and a little insane.
+With my first baby, I was scared. I thought I had to give birth in a hospital, and I had no idea what to expect. My labor lasted nearly two and a half days. Along the way I felt miserable and lost, because I had no control over what my body wanted to do. And after I gave birth, I was drained, but they still wouldn't feed me, and they kept asking me questions instead of letting me rest.
 
-My second birth, at home in my own bed, was a completely different story. I'd spent about four months practicing my hypnobirthing breathing, so I knew what was coming, and I wasn't scared. I got a real break between every contraction, a moment to breathe and rest, like I'd done it a hundred times already. My midwife always told me to get comfortable with the contractions on my own first, and call after that. It all felt so calm and manageable that I didn't think I was in real labor yet. I'd practiced it over and over again, and I felt so in control that I told my husband I was totally fine without the midwives. Which is crazy, I know.
+My second birth was a completely different story. I found the most amazing midwives, and that changed everything. I felt truly loved and cared for by these women, and they made me feel so confident that my body was ready to do this. I read a couple of books, practiced hypnobirthing, and met with them every month. Their words, their calm and their expertise prepared me for my home birth, and it became the most beautiful thing I could ever imagine.
 
-Then the pushing sensation came, and I realized: oh, this is it. Luckily, my midwife knew better. She'd pushed back: "Nope, I'm coming over now." She walked in around 8:30, right as I started pushing and the contractions got really strong, and about an hour later my second child was born. I remember thinking, wow, this is really cool. My body was made for this. I just had to let it.
-
-And then she was here. Pure joy. 🪺
+Read my full birth story →
 
 Mom of two · Chief Nest Officer
 Hi, I'm Sybille
 
 My midwife and her team are some of the most amazing women in my life, and she always said pregnant women need to feel loved.
 
-I called five birth centers, and hers had the plainest photos online, but the moment she picked up the phone, I felt so loved I wanted to tell her everything.
+I called five birth centers, and hers had the plainest photos online, but the moment she picked up the phone, I felt so loved I wanted to tell her everything. The right midwife makes you feel calm, heard, and loved. That's how you should feel.
 
-That's the feeling I want you to have, every week of your pregnancy.
+That's the feeling I want you to have, every week of your pregnancy. Your body knows how to do this.
 
 Read my story →
 Get my weekly letter
@@ -1480,12 +1814,11 @@ What you get each week
 
 One honest momentA real moment from my pregnancies, the sweet and the slightly ridiculous.
 
-One calm ideaSomething worth knowing for right where you are, explained plainly.
+One calm ideaA reminder that fear of birth is normal, and that your body knows how to do this. Labor comes in waves, with real breaks.
 
 One small stepA tiny thing to try this week. Five minutes, tops. Snacks optional.
 
 More about the weekly letter →
-
 
 ---
 
@@ -1498,15 +1831,15 @@ Hi, I'm Sybille
 
 My mission: that every woman knows she has a choice in where and how she gives birth, and feels calm, loved and prepared, whatever she chooses.
 
-I'm a mom of two. My first baby was born in a hospital with an epidural. I was completely numb, and I felt helpless. My second was born at home, in my own bed, with a midwife I trusted, and that birth showed me how calm and beautiful giving birth can be. Same body, completely different birth. The biggest difference was where I was and how calm and loved I felt.
+I'm a mom of two. My first baby was born in a hospital: I was induced early and had an epidural. Labor lasted nearly two and a half days. I was completely numb, and I felt helpless. After I gave birth, I was drained of energy. What I needed was food, rest, and quiet. My second was born at home, in my own bed, with a midwife I trusted, and that birth showed me how calm and beautiful giving birth can be. Same body, completely different birth. The biggest difference was where I was and how calm and loved I felt.
 
-As my midwife always said, pregnant women need to feel loved.
+As my midwife always said, pregnant women need to feel loved. She made me feel so special, and she told me how amazing our bodies are.
 
 That's what Born in the Nest is about.
 
 My midwives felt a little like superheroes to me. They paid attention to everything: what I was eating, how I was sleeping, how I was really feeling, and the small things I'd never have thought to mention. Often they seemed to understand what I needed just by looking at me, before I said a word.
 
-My confidence didn't come all at once. At the start of my second pregnancy, I didn't have it yet. It grew month by month, through monthly visits with my midwives, then weekly ones near the end, books and hypnobirthing practice. By month eight, I trusted my body more than I ever had.
+My confidence didn't come all at once. At the start of my second pregnancy, I didn't have it yet. First I knew I didn't want another hospital birth. The decision for a home birth came later. Confidence grew month by month, through monthly visits with my midwives, then weekly ones near the end, books (Ina May Gaskin helped) and hypnobirthing practice. By month eight, I trusted my body more than I ever had.
 
 Why Born in the Nest exists
 
@@ -1536,7 +1869,7 @@ One short, loving letter every Sunday of your pregnancy, matched to your due mon
 
 One honest momentA real moment from my pregnancies, the sweet and the slightly ridiculous.
 
-One calm ideaSomething worth knowing for right where you are, explained plainly.
+One calm ideaSomething worth knowing for right where you are, explained in everyday English.
 
 One small stepA tiny thing to try this week. Five minutes, tops. Snacks optional.
 
@@ -1639,11 +1972,11 @@ Guides to your birth options in the US: home birth, birth centers and hospitals,
 
 Guides
 Guides for your birth choices
-Honest and kind. Start wherever you are.
+Honest, kind and sourced. Start wherever you are.
 
 Most of us were never told how many options we have for giving birth. These guides are here to change that. Each one links to its sources, so you can read more and talk it through with your midwife or doctor.
 
-🏡Your birth options in the US: home, birth center or hospitalThree places, three kinds of care, and one question to help you choose.›🤍Scared of giving birth? You are not aloneFear of birth is so common. Here's where it comes from, and what helps.›🌱First-time mom? What no one tells you about your birth choicesThe things I wish I'd known before my first baby.›🪺Answers, one question at a timeWhat to ask a midwife, what happens if plans change, and more›💬Answers to your birth questionsWhat should I know about home birth? How do I find a midwife? What is tokophobia?›
+🏡Your birth options in the US: home, birth center or hospitalThree places, three kinds of care, and one question to help you choose.›🤍Scared of giving birth? You are not aloneFear of birth is so common because we grew up believing birth is scary. It is not.›🌱First-time mom? What no one tells you about your birth choicesThe things I wish I'd known before my first baby.›🪺Answers, one question at a timeWhat to ask a midwife, what happens if plans change, and more›💬Answers to your birth questionsWhat should I know about home birth? How do I find a midwife? What is tokophobia?›
 
 Prefer a little at a time?
 Read the five short lessons right here on the site, and if you'd like, get the weekly letter every Sunday, matched to your due month.
@@ -1671,7 +2004,7 @@ Only what you give us when you sign up: your email address, your due month and, 
 
 Why we collect it
 
-To send you what you asked for: the weekly letter, every Sunday of your pregnancy, matched to your due month. Your due month is how we match each letter to where you are. If you share your first name, we use it to say hello properly. The five lessons are on the site, so you don't need to share anything to read them.
+To send you what you asked for: the weekly letter, every Sunday of your pregnancy, matched to your due month. Your due month is how we match each letter to where you are. If you share your first name, we use it to say hello properly. The five short lessons are on the site, so you don't need to share anything to read them.
 
 We never sell or share your information
 
@@ -1712,6 +2045,6 @@ Answers
 Your birth questions, one at a time
 Short, honest answers from a mom of two, with sources, so you can talk it through with your midwife or doctor.
 
-🌷Birth center vs hospital: what's the difference?A birth center is a home-like place run by midwives, made for healthy pregnancies and undisturbed birth.›📋Does insurance cover a home birth?Sometimes.›🧭How do I find a home birth midwife near me?Start with the directories: ACNM's Find a Midwife for certified nurse-midwives, NARM to check a certified professional midwife's credential, and AABC for birth centers.›🏡Home birth or birth center for my first baby?Both are midwife-led, calm and built around undisturbed birth, with a plan for getting to a hospital if needed.›🗺️What happens if you need to transfer to the hospital during a home birth?A transfer simply means your care moves to the hospital, because you or your baby could use more help, or because you'd like something home can't offer, like an epidural.›🌱Can I have a home birth with my first baby?Many first-time moms do plan a home birth.›💛How much does a home birth cost?It depends on the midwife, your state and your insurance.›🪺How do I prepare my home for a home birth?Start with your midwife's list, because every midwife has her own.›🫖What questions should I ask a home birth midwife?Ask about her training and experience, who comes to the birth with her, what she brings, and her plan if you ever need a hospital.›🧺What does a home birth midwife bring?Midwives come prepared.›
+🏡What should I ask on a birth center tour?Ask who will care for you, whether the center is accredited and licensed, what happens if you need a hospital, how long families stay after the birth, and what the price includes.›🌷Birth center vs hospital: what's the difference?A birth center is a home-like place run by midwives, made for healthy pregnancies and undisturbed birth.›📋Does insurance cover a home birth?Sometimes.›🧭How do I find a home birth midwife near me?Start with the directories: ACNM's Find a Midwife for certified nurse-midwives, NARM to check a certified professional midwife's credential, and AABC for birth centers.›🏡Home birth or birth center for my first baby?Both are midwife-led, calm and built around undisturbed birth, with a plan for getting to a hospital if needed.›🗺️What happens if you need to transfer to the hospital during a home birth?A transfer simply means your care moves to the hospital, because you or your baby could use more help, or because you'd like something home can't offer, like an epidural.›🌱Can I have a home birth with my first baby?Many first-time moms do plan a home birth.›💛How much does a home birth cost?It depends on the midwife, your state and your insurance.›🪺How do I prepare my home for a home birth?Start with your midwife's list, because every midwife has her own.›🤝My partner is worried about a home birth. What can help?Take the worry seriously and bring your partner into the decision.›🫖What questions should I ask a home birth midwife?Ask about her training and experience, who comes to the birth with her, what she brings, and her plan if you ever need a hospital.›💬How do I tell my family I'm planning a home birth?You don't have to tell anyone before the birth.›🧺What does a home birth midwife bring?Midwives come prepared.›🗓️When do I need to decide where to give birth? Can I switch?Starting early gives you the most choice, because some midwives and birth centers book up.›
 
 Looking for the bigger picture? Start with the guides or the five short lessons.

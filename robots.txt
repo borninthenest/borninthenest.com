@@ -1,5 +1,5 @@
 # Born in the Nest welcomes search engines and AI assistants.
-# We want every mom looking for gentle birth options to find us.
+# We want every mom looking for birth options to find us.
 
 User-agent: GPTBot
 Allow: /
