@@ -417,3 +417,103 @@ img[src$="hero-window.jpg"]{object-position:60% 0%}img[src$="candid-socks.jpg"]{
 
 /* lesson-nav-nobox-1111: lesson pages' top nav blends into the page background, like the homepage (item 50) */
 .lesson-page .site-head{background:transparent;border-bottom-color:transparent;-webkit-backdrop-filter:none;backdrop-filter:none}
+
+/* home-flow-1111 (Sybille, Nov 11 2026): homepage phone spacing and type. Scoped to .home so other pages are unchanged. */
+@media (max-width: 600px) {
+  /* --- Hero: smaller headline, more padding around the text --- */
+  .home .hero-txt {
+    padding: 32px 22px 44px;
+  }
+  .home .hero h1 {
+    font-size: 26px;
+    line-height: 1.15;
+    letter-spacing: -.03em;
+    max-width: none;
+    margin: 0 0 14px;
+    text-wrap: balance;
+  }
+  .home .hero .sub {
+    font-size: 17.5px;
+    line-height: 1.4;
+    margin: 0 0 14px;
+  }
+  .home .hero-line {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 0 24px;
+  }
+  .home .hero-txt .cta-row {
+    margin: 0 !important;
+  }
+  .home .hero-img {
+    height: 36svh;
+    min-height: 240px;
+    max-height: 340px;
+  }
+
+  /* --- Lessons: more section padding, smaller heading, one-column cards --- */
+  .home #lessons.sec {
+    padding: 44px 0 48px;
+  }
+  .home #lessons .eyebrow {
+    margin: 0 0 12px;
+  }
+  .home #lessons .list-h {
+    font-size: 24px;
+    line-height: 1.2;
+    letter-spacing: -.03em;
+    max-width: none;
+    margin: 0 0 24px;
+    text-wrap: balance;
+  }
+  .home .tiles {
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-columns: 1fr;
+    grid-auto-columns: auto;
+    overflow: visible;
+    gap: 16px;
+    scroll-snap-type: none;
+    padding-bottom: 0;
+  }
+  .home .tiles li {
+    scroll-snap-align: unset;
+  }
+  .home .tiles a {
+    min-height: 0;
+    padding: 20px 20px 18px;
+  }
+  .home .tiles .num {
+    font-size: 32px;
+  }
+  .home .tiles .day {
+    margin: 10px 0 6px;
+  }
+  .home .tiles .tt {
+    font-size: 18px;
+  }
+  .home .tiles .go {
+    margin-top: 14px;
+  }
+
+  /* --- Signup: more padding, smaller heading, quieter due-month note --- */
+  .home .signup {
+    padding: 48px 22px 52px;
+  }
+  .home .signup .su-h {
+    font-size: 22px;
+    line-height: 1.3;
+    letter-spacing: -.02em;
+    margin: 0 0 16px;
+    text-wrap: balance;
+  }
+  .home .signup .su-why {
+    font-size: 11.5px;
+    line-height: 1.45;
+    font-weight: 400;
+    color: #8f888b;
+    margin-top: 8px;
+    padding: 0 0 0 10px;
+    border-left-width: 2px;
+  }
+}
