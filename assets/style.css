@@ -16,7 +16,8 @@ main > :not(.full):not(.wide):not(.signup):not(.band){width:min(var(--read),calc
 .full{width:100%}
 .eyebrow{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--berry);margin:0 0 14px}
 /* header */
-.site-head{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.82);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);border-bottom:1px solid rgba(18,16,18,.06);display:flex;align-items:center;gap:8px 28px;padding:0 20px;min-height:56px;flex-wrap:wrap}
+/* navfix-1113: solid opaque header so scrolling titles never show through the logo/nav (Sybille, Nov 13) */
+.site-head{position:sticky;top:0;z-index:100;background:var(--paper);border-bottom:1px solid rgba(18,16,18,.06);display:flex;align-items:center;gap:8px 28px;padding:0 20px;min-height:56px;flex-wrap:wrap}
 .brand{display:inline-flex;align-items:center;gap:9px;color:var(--ink);text-decoration:none;padding:12px 0}
 .brand:hover{color:var(--ink)}
 .mark{width:28px;height:21px;color:var(--berry)}
@@ -240,13 +241,13 @@ img[src$="hero-window.jpg"]{object-position:60% 0%}img[src$="candid-socks.jpg"]{
 /* ---- Homepage: nav melts into the hero image (Oct 23, 2026) ---- */
 .home .site-head{position:fixed;left:0;right:0;top:0;background:transparent;border-bottom-color:transparent;-webkit-backdrop-filter:none;backdrop-filter:none;transition:background .3s ease,border-color .3s ease}
 .home .site-head::before{content:'';position:absolute;inset:0 0 -28px;z-index:-1;pointer-events:none;background:linear-gradient(to bottom,rgba(255,255,255,.6),rgba(255,255,255,.28) 55%,rgba(255,255,255,0));transition:opacity .3s ease}
-.home.scrolled .site-head{background:rgba(255,255,255,.82);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);border-bottom-color:rgba(18,16,18,.06)}
+.home.scrolled .site-head{background:var(--paper);border-bottom-color:rgba(18,16,18,.06)}
 .home.scrolled .site-head::before{opacity:0}
 .home .nav a{opacity:.86}
 @media (max-width:899px){
  .home .hero{display:flex;flex-direction:column}
  /* mobile-nav-fix-1024: header sits in its own clean bar ABOVE the photo, so the nav never covers her face; no glow (Sybille, Oct 24 10:00 AM) */
- .home .site-head{position:sticky;background:rgba(255,255,255,.82);-webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);border-bottom-color:rgba(18,16,18,.06)}
+ .home .site-head{position:sticky;background:var(--paper);border-bottom-color:rgba(18,16,18,.06)}
  .home .site-head::before{display:none}
  /* logo-space-1024: tighter header on phones, less white space below the logo; photo starts close under the header (Sybille, Oct 24 10:15 AM) */
  .home .site-head{row-gap:0}
@@ -415,8 +416,8 @@ img[src$="hero-window.jpg"]{object-position:60% 0%}img[src$="candid-socks.jpg"]{
 .story-more{margin-top:8px}
 .story-more .link{color:#fff}
 
-/* lesson-nav-nobox-1111: lesson pages' top nav blends into the page background, like the homepage (item 50) */
-.lesson-page .site-head{background:transparent;border-bottom-color:transparent;-webkit-backdrop-filter:none;backdrop-filter:none}
+/* navfix-1113: lesson pages use the shared solid .site-head. Do not make the header transparent — title text showed through the logo and nav on scroll (Sybille, Nov 13). Solid page-colored background, no border line, so it still blends in (item 50). */
+.lesson-page .site-head{border-bottom-color:transparent}
 
 /* home-flow-1111 (Sybille, Nov 11 2026): homepage phone spacing and type. Scoped to .home so other pages are unchanged. */
 @media (max-width: 600px) {
